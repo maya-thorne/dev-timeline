@@ -4,3 +4,6 @@
 
 /* [2022-09-12 06:46:10] document structural invariants for Linux virtual memory and page table mechanics */
 // Incremental refinement pass 9
+
+/* [2022-09-12 11:14:38] harden pointer safety and boundary guards in Linux virtual memory and page table mechanics */
+// Incremental refinement pass 10
