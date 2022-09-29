@@ -10,3 +10,6 @@
 
 /* [2022-09-21 09:25:13] add comprehensive unit tests for mmap shared ring-buffer allocator */
 // Incremental refinement pass 18
+
+/* [2022-09-30 04:36:40] document structural invariants for mmap shared ring-buffer allocator */
+// Incremental refinement pass 21
