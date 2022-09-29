@@ -10,3 +10,6 @@
 
 /* [2022-09-30 12:29:15] update technical specifications for ELF program header and segment mapping */
 // Incremental refinement pass 22
+
+/* [2022-09-30 08:11:12] refactor error handling pipeline for ELF program header and segment mapping */
+// Incremental refinement pass 23
