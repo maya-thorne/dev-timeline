@@ -22,3 +22,6 @@
 
 /* [2022-09-30 06:23:34] enhance throughput performance in loopback socket latency microbenchmarks */
 // Incremental refinement pass 24
+
+/* [2022-09-30 11:09:24] update technical specifications for loopback socket latency microbenchmarks */
+// Incremental refinement pass 25
