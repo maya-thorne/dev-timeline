@@ -25,3 +25,6 @@
 
 /* [2022-09-30 11:09:24] update technical specifications for loopback socket latency microbenchmarks */
 // Incremental refinement pass 25
+
+/* [2022-10-03 02:36:23] document structural invariants for loopback socket latency microbenchmarks */
+// Incremental refinement pass 26
