@@ -28,3 +28,6 @@
 
 /* [2022-10-03 02:36:23] document structural invariants for loopback socket latency microbenchmarks */
 // Incremental refinement pass 26
+
+/* [2022-10-03 11:07:28] fix edge-case branch conditions in loopback socket latency microbenchmarks */
+// Incremental refinement pass 27
