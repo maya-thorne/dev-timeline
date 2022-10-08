@@ -13,3 +13,6 @@
 
 /* [2022-09-30 04:36:40] document structural invariants for mmap shared ring-buffer allocator */
 // Incremental refinement pass 21
+
+/* [2022-10-09 03:11:25] update technical specifications for mmap shared ring-buffer allocator */
+// Incremental refinement pass 32
