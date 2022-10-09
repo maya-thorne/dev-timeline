@@ -19,3 +19,6 @@
 
 /* [2022-10-09 08:34:11] harden pointer safety and boundary guards in mmap shared ring-buffer allocator */
 // Incremental refinement pass 33
+
+/* [2022-10-10 04:50:48] document structural invariants for mmap shared ring-buffer allocator */
+// Incremental refinement pass 34
