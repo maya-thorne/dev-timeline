@@ -7,3 +7,6 @@
 
 /* [2022-10-05 10:44:17] harden pointer safety and boundary guards in POSIX non-blocking socket stream handler */
 // Incremental refinement pass 30
+
+/* [2022-10-12 11:47:25] update technical specifications for POSIX non-blocking socket stream handler */
+// Incremental refinement pass 35
