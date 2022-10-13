@@ -13,3 +13,6 @@
 
 /* [2022-10-13 04:38:19] clean up legacy headers and unused symbols in POSIX non-blocking socket stream handler */
 // Incremental refinement pass 37
+
+/* [2022-10-14 03:15:39] update technical specifications for POSIX non-blocking socket stream handler */
+// Incremental refinement pass 40
