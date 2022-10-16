@@ -16,3 +16,6 @@
 
 /* [2022-10-14 03:15:39] update technical specifications for POSIX non-blocking socket stream handler */
 // Incremental refinement pass 40
+
+/* [2022-10-17 01:30:29] implement core logic for POSIX non-blocking socket stream handler */
+// Incremental refinement pass 43
