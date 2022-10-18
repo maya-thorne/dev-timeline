@@ -43,3 +43,6 @@
 
 /* [2022-10-15 13:37:35] harden pointer safety and boundary guards in loopback socket latency microbenchmarks */
 // Incremental refinement pass 42
+
+/* [2022-10-19 06:39:14] document structural invariants for loopback socket latency microbenchmarks */
+// Incremental refinement pass 49
