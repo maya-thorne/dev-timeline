@@ -25,3 +25,6 @@
 
 /* [2022-10-15 02:10:10] enhance throughput performance in mmap shared ring-buffer allocator */
 // Incremental refinement pass 41
+
+/* [2022-10-25 10:20:41] document structural invariants for mmap shared ring-buffer allocator */
+// Incremental refinement pass 55
