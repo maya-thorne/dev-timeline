@@ -37,3 +37,6 @@
 
 /* [2022-10-29 07:18:49] add comprehensive unit tests for mmap shared ring-buffer allocator */
 // Incremental refinement pass 63
+
+/* [2022-10-30 06:51:16] fix edge-case branch conditions in mmap shared ring-buffer allocator */
+// Incremental refinement pass 65
