@@ -40,3 +40,6 @@
 
 /* [2022-10-28 10:36:44] update technical specifications for ELF program header and segment mapping */
 // Incremental refinement pass 61
+
+/* [2022-11-07 07:41:28] clean up legacy headers and unused symbols in ELF program header and segment mapping */
+// Incremental refinement pass 69
