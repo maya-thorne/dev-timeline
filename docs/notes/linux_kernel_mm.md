@@ -34,3 +34,6 @@
 
 /* [2022-11-03 05:23:46] add comprehensive unit tests for Linux virtual memory and page table mechanics */
 // Incremental refinement pass 67
+
+/* [2022-11-08 11:44:47] document structural invariants for Linux virtual memory and page table mechanics */
+// Incremental refinement pass 70
