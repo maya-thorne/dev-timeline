@@ -31,3 +31,6 @@
 
 /* [2022-10-26 10:49:42] optimize memory bounds and alignment in POSIX non-blocking socket stream handler */
 // Incremental refinement pass 58
+
+/* [2022-11-09 09:14:20] document structural invariants for POSIX non-blocking socket stream handler */
+// Incremental refinement pass 72
