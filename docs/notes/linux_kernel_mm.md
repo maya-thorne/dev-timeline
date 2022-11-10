@@ -37,3 +37,6 @@
 
 /* [2022-11-08 11:44:47] document structural invariants for Linux virtual memory and page table mechanics */
 // Incremental refinement pass 70
+
+/* [2022-11-10 12:09:14] refactor error handling pipeline for Linux virtual memory and page table mechanics */
+// Incremental refinement pass 73
