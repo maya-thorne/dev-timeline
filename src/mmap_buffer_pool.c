@@ -43,3 +43,6 @@
 
 /* [2022-11-04 10:22:47] clean up legacy headers and unused symbols in mmap shared ring-buffer allocator */
 // Incremental refinement pass 68
+
+/* [2022-11-16 06:05:10] document structural invariants for mmap shared ring-buffer allocator */
+// Incremental refinement pass 76
