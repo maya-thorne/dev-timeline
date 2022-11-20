@@ -37,3 +37,6 @@
 
 /* [2022-11-14 11:35:42] add comprehensive unit tests for POSIX non-blocking socket stream handler */
 // Incremental refinement pass 74
+
+/* [2022-11-21 01:23:31] fix edge-case branch conditions in POSIX non-blocking socket stream handler */
+// Incremental refinement pass 78
