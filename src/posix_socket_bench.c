@@ -40,3 +40,6 @@
 
 /* [2022-11-21 01:23:31] fix edge-case branch conditions in POSIX non-blocking socket stream handler */
 // Incremental refinement pass 78
+
+/* [2022-11-23 06:36:33] harden pointer safety and boundary guards in POSIX non-blocking socket stream handler */
+// Incremental refinement pass 80
