@@ -49,3 +49,6 @@
 
 /* [2022-11-29 05:24:26] implement core logic for POSIX non-blocking socket stream handler */
 // Incremental refinement pass 86
+
+/* [2022-12-12 01:29:30] document structural invariants for POSIX non-blocking socket stream handler */
+// Incremental refinement pass 91
