@@ -52,3 +52,6 @@
 
 /* [2022-12-14 06:46:12] implement core logic for mmap shared ring-buffer allocator */
 // Incremental refinement pass 98
+
+/* [2022-12-15 08:43:12] update technical specifications for mmap shared ring-buffer allocator */
+// Incremental refinement pass 99
