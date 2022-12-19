@@ -55,3 +55,6 @@
 
 /* [2022-12-17 08:15:39] implement core logic for POSIX non-blocking socket stream handler */
 // Incremental refinement pass 100
+
+/* [2022-12-20 06:10:46] harden pointer safety and boundary guards in POSIX non-blocking socket stream handler */
+// Incremental refinement pass 105
