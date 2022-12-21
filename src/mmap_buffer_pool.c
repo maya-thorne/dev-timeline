@@ -64,3 +64,6 @@
 
 /* [2022-12-19 11:43:12] fix edge-case branch conditions in mmap shared ring-buffer allocator */
 // Incremental refinement pass 104
+
+/* [2022-12-21 13:27:10] harden pointer safety and boundary guards in mmap shared ring-buffer allocator */
+// Incremental refinement pass 106
