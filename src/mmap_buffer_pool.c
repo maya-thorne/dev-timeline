@@ -67,3 +67,6 @@
 
 /* [2022-12-21 13:27:10] harden pointer safety and boundary guards in mmap shared ring-buffer allocator */
 // Incremental refinement pass 106
+
+/* [2022-12-23 12:17:41] update technical specifications for mmap shared ring-buffer allocator */
+// Incremental refinement pass 110
