@@ -7,3 +7,6 @@
 
 /* [2023-01-10 11:08:33] update technical specifications for Batch caret insertion and character token normalizer */
 // Incremental refinement pass 122
+
+/* [2023-01-11 01:33:32] document structural invariants for Batch caret insertion and character token normalizer */
+// Incremental refinement pass 124
