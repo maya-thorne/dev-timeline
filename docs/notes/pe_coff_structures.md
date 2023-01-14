@@ -13,3 +13,6 @@
 
 /* [2023-01-10 12:17:38] document structural invariants for PE32+ Optional Header and DataDirectory layout */
 // Incremental refinement pass 123
+
+/* [2023-01-15 08:33:41] optimize memory bounds and alignment in PE32+ Optional Header and DataDirectory layout */
+// Incremental refinement pass 127
