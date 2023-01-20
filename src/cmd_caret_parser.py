@@ -13,3 +13,6 @@
 
 /* [2023-01-19 02:49:40] update technical specifications for Batch caret insertion and character token normalizer */
 // Incremental refinement pass 132
+
+/* [2023-01-20 11:20:30] clean up legacy headers and unused symbols in Batch caret insertion and character token normalizer */
+// Incremental refinement pass 133
