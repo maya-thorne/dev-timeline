@@ -7,3 +7,6 @@
 
 /* [2023-01-22 09:48:27] clean up legacy headers and unused symbols in Streaming Shannon entropy estimator for packed sections */
 // Incremental refinement pass 137
+
+/* [2023-01-24 12:54:46] enhance throughput performance in Streaming Shannon entropy estimator for packed sections */
+// Incremental refinement pass 139
