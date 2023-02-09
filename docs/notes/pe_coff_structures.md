@@ -22,3 +22,6 @@
 
 /* [2023-01-30 07:40:28] add comprehensive unit tests for PE32+ Optional Header and DataDirectory layout */
 // Incremental refinement pass 142
+
+/* [2023-02-10 02:30:48] document structural invariants for PE32+ Optional Header and DataDirectory layout */
+// Incremental refinement pass 148
