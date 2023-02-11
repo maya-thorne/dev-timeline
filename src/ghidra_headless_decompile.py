@@ -16,3 +16,6 @@
 
 /* [2023-02-11 05:26:30] clean up legacy headers and unused symbols in Ghidra headless script for micro-decompilation */
 // Incremental refinement pass 151
+
+/* [2023-02-12 04:12:50] document structural invariants for Ghidra headless script for micro-decompilation */
+// Incremental refinement pass 152
