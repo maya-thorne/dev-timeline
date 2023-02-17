@@ -31,3 +31,6 @@
 
 /* [2023-02-16 08:12:31] harden pointer safety and boundary guards in PE32+ Optional Header and DataDirectory layout */
 // Incremental refinement pass 158
+
+/* [2023-02-17 09:39:43] fix edge-case branch conditions in PE32+ Optional Header and DataDirectory layout */
+// Incremental refinement pass 160
