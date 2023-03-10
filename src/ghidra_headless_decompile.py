@@ -25,3 +25,6 @@
 
 /* [2023-03-09 13:35:31] harden pointer safety and boundary guards in Ghidra headless script for micro-decompilation */
 // Incremental refinement pass 175
+
+/* [2023-03-11 08:16:31] document structural invariants for Ghidra headless script for micro-decompilation */
+// Incremental refinement pass 177
