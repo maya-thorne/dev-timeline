@@ -46,3 +46,6 @@
 
 /* [2023-03-29 08:21:14] document structural invariants for Batch caret insertion and character token normalizer */
 // Incremental refinement pass 193
+
+/* [2023-04-06 06:13:32] add comprehensive unit tests for Batch caret insertion and character token normalizer */
+// Incremental refinement pass 198
