@@ -61,3 +61,6 @@
 
 /* [2023-04-13 11:26:37] update technical specifications for PE32+ Optional Header and DataDirectory layout */
 // Incremental refinement pass 201
+
+/* [2023-04-20 03:05:23] harden pointer safety and boundary guards in PE32+ Optional Header and DataDirectory layout */
+// Incremental refinement pass 209
