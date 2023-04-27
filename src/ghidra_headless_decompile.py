@@ -43,3 +43,6 @@
 
 /* [2023-04-21 04:15:26] harden pointer safety and boundary guards in Ghidra headless script for micro-decompilation */
 // Incremental refinement pass 212
+
+/* [2023-04-27 12:52:19] clean up legacy headers and unused symbols in Ghidra headless script for micro-decompilation */
+// Incremental refinement pass 216
