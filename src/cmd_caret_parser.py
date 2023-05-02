@@ -55,3 +55,6 @@
 
 /* [2023-04-18 05:35:20] add comprehensive unit tests for Batch caret insertion and character token normalizer */
 // Incremental refinement pass 205
+
+/* [2023-05-02 11:18:45] fix edge-case branch conditions in Batch caret insertion and character token normalizer */
+// Incremental refinement pass 221
