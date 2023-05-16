@@ -31,3 +31,6 @@
 
 /* [2023-04-29 13:50:31] implement core logic for Streaming Shannon entropy estimator for packed sections */
 // Incremental refinement pass 218
+
+/* [2023-05-17 08:35:36] fix edge-case branch conditions in Streaming Shannon entropy estimator for packed sections */
+// Incremental refinement pass 235
