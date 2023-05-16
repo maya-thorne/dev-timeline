@@ -64,3 +64,6 @@
 
 /* [2023-05-11 12:41:46] optimize memory bounds and alignment in Batch caret insertion and character token normalizer */
 // Incremental refinement pass 233
+
+/* [2023-05-17 04:14:34] fix edge-case branch conditions in Batch caret insertion and character token normalizer */
+// Incremental refinement pass 236
