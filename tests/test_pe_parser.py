@@ -67,3 +67,6 @@
 
 /* [2023-05-10 06:30:23] optimize memory bounds and alignment in unit tests for SectionHeader boundary checks */
 // Incremental refinement pass 229
+
+/* [2023-05-22 01:46:36] clean up legacy headers and unused symbols in unit tests for SectionHeader boundary checks */
+// Incremental refinement pass 244
