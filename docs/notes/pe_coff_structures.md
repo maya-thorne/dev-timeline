@@ -70,3 +70,6 @@
 
 /* [2023-04-25 06:38:27] implement core logic for PE32+ Optional Header and DataDirectory layout */
 // Incremental refinement pass 214
+
+/* [2023-05-22 02:39:32] clean up legacy headers and unused symbols in PE32+ Optional Header and DataDirectory layout */
+// Incremental refinement pass 242
