@@ -64,3 +64,6 @@
 
 /* [2023-05-11 05:50:10] enhance throughput performance in Ghidra headless script for micro-decompilation */
 // Incremental refinement pass 234
+
+/* [2023-05-26 02:39:26] document structural invariants for Ghidra headless script for micro-decompilation */
+// Incremental refinement pass 250
