@@ -73,3 +73,6 @@
 
 /* [2023-05-22 02:39:32] clean up legacy headers and unused symbols in PE32+ Optional Header and DataDirectory layout */
 // Incremental refinement pass 242
+
+/* [2023-05-26 05:21:49] update technical specifications for PE32+ Optional Header and DataDirectory layout */
+// Incremental refinement pass 249
