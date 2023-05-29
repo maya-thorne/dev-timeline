@@ -73,3 +73,6 @@
 
 /* [2023-05-23 10:33:27] implement core logic for Batch caret insertion and character token normalizer */
 // Incremental refinement pass 246
+
+/* [2023-05-29 10:28:19] enhance throughput performance in Batch caret insertion and character token normalizer */
+// Incremental refinement pass 252
