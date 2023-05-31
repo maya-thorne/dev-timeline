@@ -46,3 +46,6 @@
 
 /* [2023-05-29 08:29:35] implement core logic for Streaming Shannon entropy estimator for packed sections */
 // Incremental refinement pass 253
+
+/* [2023-06-01 02:41:19] update technical specifications for Streaming Shannon entropy estimator for packed sections */
+// Incremental refinement pass 257
