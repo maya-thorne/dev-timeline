@@ -82,3 +82,6 @@
 
 /* [2023-05-31 09:31:45] document structural invariants for unit tests for SectionHeader boundary checks */
 // Incremental refinement pass 255
+
+/* [2023-06-01 10:46:12] harden pointer safety and boundary guards in unit tests for SectionHeader boundary checks */
+// Incremental refinement pass 256
