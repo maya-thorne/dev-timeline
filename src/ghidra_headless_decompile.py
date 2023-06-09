@@ -67,3 +67,6 @@
 
 /* [2023-05-26 02:39:26] document structural invariants for Ghidra headless script for micro-decompilation */
 // Incremental refinement pass 250
+
+/* [2023-06-09 09:50:23] optimize memory bounds and alignment in Ghidra headless script for micro-decompilation */
+// Incremental refinement pass 264
