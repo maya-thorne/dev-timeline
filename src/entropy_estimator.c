@@ -58,3 +58,6 @@
 
 /* [2023-06-07 08:22:39] refactor error handling pipeline for Streaming Shannon entropy estimator for packed sections */
 // Incremental refinement pass 261
+
+/* [2023-06-11 05:05:17] clean up legacy headers and unused symbols in Streaming Shannon entropy estimator for packed sections */
+// Incremental refinement pass 267
