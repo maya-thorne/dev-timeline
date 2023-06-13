@@ -73,3 +73,6 @@
 
 /* [2023-06-11 10:35:14] implement core logic for Ghidra headless script for micro-decompilation */
 // Incremental refinement pass 265
+
+/* [2023-06-14 05:24:21] document structural invariants for Ghidra headless script for micro-decompilation */
+// Incremental refinement pass 272
