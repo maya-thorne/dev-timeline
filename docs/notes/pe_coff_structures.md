@@ -79,3 +79,6 @@
 
 /* [2023-06-07 06:51:14] enhance throughput performance in PE32+ Optional Header and DataDirectory layout */
 // Incremental refinement pass 262
+
+/* [2023-06-27 07:45:33] update technical specifications for PE32+ Optional Header and DataDirectory layout */
+// Incremental refinement pass 283
