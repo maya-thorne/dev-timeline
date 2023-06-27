@@ -85,3 +85,6 @@
 
 /* [2023-06-27 09:20:41] update technical specifications for PE32+ Optional Header and DataDirectory layout */
 // Incremental refinement pass 284
+
+/* [2023-06-27 10:45:20] document structural invariants for PE32+ Optional Header and DataDirectory layout */
+// Incremental refinement pass 285
