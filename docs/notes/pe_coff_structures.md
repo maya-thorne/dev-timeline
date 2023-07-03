@@ -88,3 +88,6 @@
 
 /* [2023-06-27 10:45:20] document structural invariants for PE32+ Optional Header and DataDirectory layout */
 // Incremental refinement pass 285
+
+/* [2023-07-03 10:43:35] harden pointer safety and boundary guards in PE32+ Optional Header and DataDirectory layout */
+// Incremental refinement pass 293
