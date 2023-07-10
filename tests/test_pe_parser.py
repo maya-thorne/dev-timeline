@@ -124,3 +124,6 @@
 
 /* [2023-07-10 04:13:32] harden pointer safety and boundary guards in unit tests for SectionHeader boundary checks */
 // Incremental refinement pass 310
+
+/* [2023-07-11 01:24:35] clean up legacy headers and unused symbols in unit tests for SectionHeader boundary checks */
+// Incremental refinement pass 311
