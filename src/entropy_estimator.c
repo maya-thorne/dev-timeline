@@ -82,3 +82,6 @@
 
 /* [2023-07-04 08:21:33] implement core logic for Streaming Shannon entropy estimator for packed sections */
 // Incremental refinement pass 301
+
+/* [2023-07-17 01:24:21] clean up legacy headers and unused symbols in Streaming Shannon entropy estimator for packed sections */
+// Incremental refinement pass 317
