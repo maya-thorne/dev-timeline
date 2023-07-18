@@ -85,3 +85,6 @@
 
 /* [2023-07-19 03:08:29] refactor error handling pipeline for Ghidra headless script for micro-decompilation */
 // Incremental refinement pass 319
+
+/* [2023-07-19 05:23:41] document structural invariants for Ghidra headless script for micro-decompilation */
+// Incremental refinement pass 320
