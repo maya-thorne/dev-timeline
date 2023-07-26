@@ -121,3 +121,6 @@
 
 /* [2023-07-21 13:35:25] fix edge-case branch conditions in DOSfuscation and environment variable slicing taxonomy */
 // Incremental refinement pass 324
+
+/* [2023-07-27 08:24:13] document structural invariants for DOSfuscation and environment variable slicing taxonomy */
+// Incremental refinement pass 330
