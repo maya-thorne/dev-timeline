@@ -106,3 +106,6 @@
 
 /* [2023-07-23 13:06:32] enhance throughput performance in PE32+ Optional Header and DataDirectory layout */
 // Incremental refinement pass 325
+
+/* [2023-08-17 07:54:25] fix edge-case branch conditions in PE32+ Optional Header and DataDirectory layout */
+// Incremental refinement pass 337
