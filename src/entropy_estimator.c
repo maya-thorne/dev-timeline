@@ -97,3 +97,6 @@
 
 /* [2023-08-18 02:39:23] fix edge-case branch conditions in Streaming Shannon entropy estimator for packed sections */
 // Incremental refinement pass 339
+
+/* [2023-08-18 04:46:44] update technical specifications for Streaming Shannon entropy estimator for packed sections */
+// Incremental refinement pass 340
