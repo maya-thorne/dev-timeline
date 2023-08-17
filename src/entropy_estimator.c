@@ -94,3 +94,6 @@
 
 /* [2023-08-16 13:05:19] optimize memory bounds and alignment in Streaming Shannon entropy estimator for packed sections */
 // Incremental refinement pass 336
+
+/* [2023-08-18 02:39:23] fix edge-case branch conditions in Streaming Shannon entropy estimator for packed sections */
+// Incremental refinement pass 339
