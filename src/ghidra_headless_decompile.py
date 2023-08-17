@@ -94,3 +94,6 @@
 
 /* [2023-07-25 01:38:31] add comprehensive unit tests for Ghidra headless script for micro-decompilation */
 // Incremental refinement pass 327
+
+/* [2023-08-18 02:26:34] update technical specifications for Ghidra headless script for micro-decompilation */
+// Incremental refinement pass 342
