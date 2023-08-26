@@ -115,3 +115,6 @@
 
 /* [2023-08-26 01:15:15] add comprehensive unit tests for Batch caret insertion and character token normalizer */
 // Incremental refinement pass 346
+
+/* [2023-08-26 11:52:22] document structural invariants for Batch caret insertion and character token normalizer */
+// Incremental refinement pass 347
