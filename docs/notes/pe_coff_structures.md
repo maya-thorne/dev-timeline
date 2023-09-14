@@ -121,3 +121,6 @@
 
 /* [2023-09-11 04:49:43] optimize memory bounds and alignment in PE32+ Optional Header and DataDirectory layout */
 // Incremental refinement pass 361
+
+/* [2023-09-15 06:11:48] fix edge-case branch conditions in PE32+ Optional Header and DataDirectory layout */
+// Incremental refinement pass 365
