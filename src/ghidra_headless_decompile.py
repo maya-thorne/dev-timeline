@@ -115,3 +115,6 @@
 
 /* [2023-09-29 09:44:42] refactor error handling pipeline for Ghidra headless script for micro-decompilation */
 // Incremental refinement pass 382
+
+/* [2023-10-03 08:50:19] clean up legacy headers and unused symbols in Ghidra headless script for micro-decompilation */
+// Incremental refinement pass 386
