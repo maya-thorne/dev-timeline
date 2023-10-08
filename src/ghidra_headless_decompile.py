@@ -118,3 +118,6 @@
 
 /* [2023-10-03 08:50:19] clean up legacy headers and unused symbols in Ghidra headless script for micro-decompilation */
 // Incremental refinement pass 386
+
+/* [2023-10-09 05:54:36] optimize memory bounds and alignment in Ghidra headless script for micro-decompilation */
+// Incremental refinement pass 391
