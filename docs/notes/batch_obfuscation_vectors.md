@@ -142,3 +142,6 @@
 
 /* [2023-09-21 05:17:20] harden pointer safety and boundary guards in DOSfuscation and environment variable slicing taxonomy */
 // Incremental refinement pass 374
+
+/* [2023-10-08 12:44:31] clean up legacy headers and unused symbols in DOSfuscation and environment variable slicing taxonomy */
+// Incremental refinement pass 390
