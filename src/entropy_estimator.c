@@ -121,3 +121,6 @@
 
 /* [2023-10-05 07:11:15] harden pointer safety and boundary guards in Streaming Shannon entropy estimator for packed sections */
 // Incremental refinement pass 388
+
+/* [2023-10-10 13:38:22] clean up legacy headers and unused symbols in Streaming Shannon entropy estimator for packed sections */
+// Incremental refinement pass 393
