@@ -121,3 +121,6 @@
 
 /* [2023-10-09 05:54:36] optimize memory bounds and alignment in Ghidra headless script for micro-decompilation */
 // Incremental refinement pass 391
+
+/* [2023-10-11 07:30:41] fix edge-case branch conditions in Ghidra headless script for micro-decompilation */
+// Incremental refinement pass 397
