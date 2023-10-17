@@ -136,3 +136,6 @@
 
 /* [2023-10-10 11:47:48] optimize memory bounds and alignment in PE32+ Optional Header and DataDirectory layout */
 // Incremental refinement pass 396
+
+/* [2023-10-18 01:09:15] update technical specifications for PE32+ Optional Header and DataDirectory layout */
+// Incremental refinement pass 401
