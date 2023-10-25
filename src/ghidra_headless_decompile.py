@@ -127,3 +127,6 @@
 
 /* [2023-10-17 10:24:18] implement core logic for Ghidra headless script for micro-decompilation */
 // Incremental refinement pass 400
+
+/* [2023-10-26 08:14:12] clean up legacy headers and unused symbols in Ghidra headless script for micro-decompilation */
+// Incremental refinement pass 406
