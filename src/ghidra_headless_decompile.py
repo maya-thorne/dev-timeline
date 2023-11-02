@@ -139,3 +139,6 @@
 
 /* [2023-11-01 09:23:43] fix edge-case branch conditions in Ghidra headless script for micro-decompilation */
 // Incremental refinement pass 411
+
+/* [2023-11-02 13:22:44] clean up legacy headers and unused symbols in Ghidra headless script for micro-decompilation */
+// Incremental refinement pass 413
