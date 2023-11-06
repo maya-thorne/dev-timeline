@@ -169,3 +169,6 @@
 
 /* [2023-11-05 13:33:17] fix edge-case branch conditions in Batch caret insertion and character token normalizer */
 // Incremental refinement pass 418
+
+/* [2023-11-07 06:24:22] clean up legacy headers and unused symbols in Batch caret insertion and character token normalizer */
+// Incremental refinement pass 420
