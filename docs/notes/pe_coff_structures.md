@@ -145,3 +145,6 @@
 
 /* [2023-10-27 13:33:20] refactor error handling pipeline for PE32+ Optional Header and DataDirectory layout */
 // Incremental refinement pass 407
+
+/* [2023-11-09 09:45:27] clean up legacy headers and unused symbols in PE32+ Optional Header and DataDirectory layout */
+// Incremental refinement pass 422
