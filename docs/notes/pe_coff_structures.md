@@ -148,3 +148,6 @@
 
 /* [2023-11-09 09:45:27] clean up legacy headers and unused symbols in PE32+ Optional Header and DataDirectory layout */
 // Incremental refinement pass 422
+
+/* [2023-11-23 08:35:24] fix edge-case branch conditions in PE32+ Optional Header and DataDirectory layout */
+// Incremental refinement pass 436
