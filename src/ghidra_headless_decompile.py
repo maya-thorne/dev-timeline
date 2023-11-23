@@ -145,3 +145,6 @@
 
 /* [2023-11-07 10:54:45] enhance throughput performance in Ghidra headless script for micro-decompilation */
 // Incremental refinement pass 421
+
+/* [2023-11-23 12:26:30] update technical specifications for Ghidra headless script for micro-decompilation */
+// Incremental refinement pass 435
