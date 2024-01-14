@@ -7,3 +7,6 @@
 
 /* [2024-01-15 11:33:11] fix edge-case branch conditions in .NET Metadata Tables and UserString stream format */
 // Incremental refinement pass 468
+
+/* [2024-01-15 02:10:14] clean up legacy headers and unused symbols in .NET Metadata Tables and UserString stream format */
+// Incremental refinement pass 470
