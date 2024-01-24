@@ -7,3 +7,6 @@
 
 /* [2024-01-15 07:12:50] add comprehensive unit tests for CIL method header parser and raw byte extractor */
 // Incremental refinement pass 467
+
+/* [2024-01-24 10:21:33] implement core logic for CIL method header parser and raw byte extractor */
+// Incremental refinement pass 480
