@@ -28,3 +28,6 @@
 
 /* [2024-01-30 13:23:34] enhance throughput performance in .NET Metadata Tables and UserString stream format */
 // Incremental refinement pass 484
+
+/* [2024-02-09 13:42:49] clean up legacy headers and unused symbols in .NET Metadata Tables and UserString stream format */
+// Incremental refinement pass 488
