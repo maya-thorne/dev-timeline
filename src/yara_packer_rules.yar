@@ -7,3 +7,6 @@
 
 /* [2024-01-22 13:06:26] clean up legacy headers and unused symbols in YARA signatures for commercial PE envelope packers */
 // Incremental refinement pass 477
+
+/* [2024-02-13 03:21:25] optimize memory bounds and alignment in YARA signatures for commercial PE envelope packers */
+// Incremental refinement pass 491
