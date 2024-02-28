@@ -16,3 +16,6 @@
 
 /* [2024-02-09 06:11:10] update technical specifications for CIL method header parser and raw byte extractor */
 // Incremental refinement pass 487
+
+/* [2024-02-29 02:25:18] harden pointer safety and boundary guards in CIL method header parser and raw byte extractor */
+// Incremental refinement pass 498
