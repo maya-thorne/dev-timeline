@@ -31,3 +31,6 @@
 
 /* [2024-02-09 13:42:49] clean up legacy headers and unused symbols in .NET Metadata Tables and UserString stream format */
 // Incremental refinement pass 488
+
+/* [2024-03-03 08:41:15] document structural invariants for .NET Metadata Tables and UserString stream format */
+// Incremental refinement pass 502
