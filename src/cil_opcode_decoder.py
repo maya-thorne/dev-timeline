@@ -22,3 +22,6 @@
 
 /* [2024-03-01 04:31:13] harden pointer safety and boundary guards in CIL method header parser and raw byte extractor */
 // Incremental refinement pass 500
+
+/* [2024-03-05 02:13:29] document structural invariants for CIL method header parser and raw byte extractor */
+// Incremental refinement pass 507
