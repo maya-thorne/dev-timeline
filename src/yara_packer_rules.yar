@@ -22,3 +22,6 @@
 
 /* [2024-03-03 05:07:48] enhance throughput performance in YARA signatures for commercial PE envelope packers */
 // Incremental refinement pass 504
+
+/* [2024-03-05 12:30:23] clean up legacy headers and unused symbols in YARA signatures for commercial PE envelope packers */
+// Incremental refinement pass 509
