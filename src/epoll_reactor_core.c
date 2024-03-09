@@ -16,3 +16,6 @@
 
 /* [2024-02-28 01:07:44] enhance throughput performance in Linux epoll edge-triggered event demultiplexer */
 // Incremental refinement pass 497
+
+/* [2024-03-10 07:15:32] update technical specifications for Linux epoll edge-triggered event demultiplexer */
+// Incremental refinement pass 512
