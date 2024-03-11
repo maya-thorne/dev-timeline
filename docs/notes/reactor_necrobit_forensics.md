@@ -28,3 +28,6 @@
 
 /* [2024-03-01 10:30:47] optimize memory bounds and alignment in .NET Reactor NecroBit method decryption flow */
 // Incremental refinement pass 501
+
+/* [2024-03-11 09:43:35] document structural invariants for .NET Reactor NecroBit method decryption flow */
+// Incremental refinement pass 515
