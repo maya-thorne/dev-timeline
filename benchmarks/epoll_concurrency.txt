@@ -19,3 +19,6 @@
 
 /* [2024-03-11 06:16:17] clean up legacy headers and unused symbols in 100k connection epoll throughput benchmarks */
 // Incremental refinement pass 516
+
+/* [2024-03-13 13:28:31] document structural invariants for 100k connection epoll throughput benchmarks */
+// Incremental refinement pass 517
