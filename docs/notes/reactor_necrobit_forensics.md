@@ -31,3 +31,6 @@
 
 /* [2024-03-11 09:43:35] document structural invariants for .NET Reactor NecroBit method decryption flow */
 // Incremental refinement pass 515
+
+/* [2024-03-25 07:23:13] clean up legacy headers and unused symbols in .NET Reactor NecroBit method decryption flow */
+// Incremental refinement pass 525
