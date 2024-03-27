@@ -25,3 +25,6 @@
 
 /* [2024-03-22 09:05:28] add comprehensive unit tests for Linux epoll edge-triggered event demultiplexer */
 // Incremental refinement pass 523
+
+/* [2024-03-28 05:17:24] refactor error handling pipeline for Linux epoll edge-triggered event demultiplexer */
+// Incremental refinement pass 527
