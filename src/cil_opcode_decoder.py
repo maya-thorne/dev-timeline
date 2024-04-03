@@ -28,3 +28,6 @@
 
 /* [2024-03-05 12:31:19] refactor error handling pipeline for CIL method header parser and raw byte extractor */
 // Incremental refinement pass 508
+
+/* [2024-04-04 03:55:28] implement core logic for CIL method header parser and raw byte extractor */
+// Incremental refinement pass 529
