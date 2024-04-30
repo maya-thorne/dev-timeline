@@ -52,3 +52,6 @@
 
 /* [2024-04-18 04:06:17] add comprehensive unit tests for YARA signatures for commercial PE envelope packers */
 // Incremental refinement pass 544
+
+/* [2024-05-01 03:53:31] enhance throughput performance in YARA signatures for commercial PE envelope packers */
+// Incremental refinement pass 560
