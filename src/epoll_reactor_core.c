@@ -34,3 +34,6 @@
 
 /* [2024-04-26 13:21:27] fix edge-case branch conditions in Linux epoll edge-triggered event demultiplexer */
 // Incremental refinement pass 552
+
+/* [2024-05-01 07:10:21] implement core logic for Linux epoll edge-triggered event demultiplexer */
+// Incremental refinement pass 561
