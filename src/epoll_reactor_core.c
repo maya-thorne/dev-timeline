@@ -37,3 +37,6 @@
 
 /* [2024-05-01 07:10:21] implement core logic for Linux epoll edge-triggered event demultiplexer */
 // Incremental refinement pass 561
+
+/* [2024-05-03 01:39:35] clean up legacy headers and unused symbols in Linux epoll edge-triggered event demultiplexer */
+// Incremental refinement pass 563
