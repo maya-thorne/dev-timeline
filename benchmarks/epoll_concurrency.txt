@@ -40,3 +40,6 @@
 
 /* [2024-04-26 12:11:17] refactor error handling pipeline for 100k connection epoll throughput benchmarks */
 // Incremental refinement pass 553
+
+/* [2024-05-04 10:47:39] update technical specifications for 100k connection epoll throughput benchmarks */
+// Incremental refinement pass 565
