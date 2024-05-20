@@ -64,3 +64,6 @@
 
 /* [2024-05-16 04:51:22] clean up legacy headers and unused symbols in YARA signatures for commercial PE envelope packers */
 // Incremental refinement pass 574
+
+/* [2024-05-21 03:55:26] clean up legacy headers and unused symbols in YARA signatures for commercial PE envelope packers */
+// Incremental refinement pass 578
