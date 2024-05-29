@@ -43,3 +43,6 @@
 
 /* [2024-05-04 10:47:39] update technical specifications for 100k connection epoll throughput benchmarks */
 // Incremental refinement pass 565
+
+/* [2024-05-30 04:38:45] document structural invariants for 100k connection epoll throughput benchmarks */
+// Incremental refinement pass 585
