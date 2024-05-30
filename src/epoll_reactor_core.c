@@ -61,3 +61,6 @@
 
 /* [2024-05-30 05:22:23] update technical specifications for Linux epoll edge-triggered event demultiplexer */
 // Incremental refinement pass 584
+
+/* [2024-05-31 03:05:31] implement core logic for Linux epoll edge-triggered event demultiplexer */
+// Incremental refinement pass 588
