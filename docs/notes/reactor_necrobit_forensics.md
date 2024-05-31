@@ -67,3 +67,6 @@
 
 /* [2024-05-24 04:21:36] add comprehensive unit tests for .NET Reactor NecroBit method decryption flow */
 // Incremental refinement pass 581
+
+/* [2024-05-31 13:18:32] update technical specifications for .NET Reactor NecroBit method decryption flow */
+// Incremental refinement pass 587
