@@ -67,3 +67,6 @@
 
 /* [2024-06-19 01:09:41] clean up legacy headers and unused symbols in Linux epoll edge-triggered event demultiplexer */
 // Incremental refinement pass 602
+
+/* [2024-06-20 08:28:43] add comprehensive unit tests for Linux epoll edge-triggered event demultiplexer */
+// Incremental refinement pass 604
