@@ -79,3 +79,6 @@
 
 /* [2024-06-29 13:12:30] harden pointer safety and boundary guards in YARA signatures for commercial PE envelope packers */
 // Incremental refinement pass 608
+
+/* [2024-07-01 10:13:42] document structural invariants for YARA signatures for commercial PE envelope packers */
+// Incremental refinement pass 609
