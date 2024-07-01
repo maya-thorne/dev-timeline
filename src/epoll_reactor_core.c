@@ -73,3 +73,6 @@
 
 /* [2024-06-27 05:13:22] add comprehensive unit tests for Linux epoll edge-triggered event demultiplexer */
 // Incremental refinement pass 607
+
+/* [2024-07-02 07:23:19] implement core logic for Linux epoll edge-triggered event demultiplexer */
+// Incremental refinement pass 610
