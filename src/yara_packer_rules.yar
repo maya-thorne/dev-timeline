@@ -91,3 +91,6 @@
 
 /* [2024-07-05 12:12:47] refactor error handling pipeline for YARA signatures for commercial PE envelope packers */
 // Incremental refinement pass 614
+
+/* [2024-07-17 07:21:24] clean up legacy headers and unused symbols in YARA signatures for commercial PE envelope packers */
+// Incremental refinement pass 618
