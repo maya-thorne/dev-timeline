@@ -100,3 +100,6 @@
 
 /* [2024-07-20 09:34:18] update technical specifications for YARA signatures for commercial PE envelope packers */
 // Incremental refinement pass 622
+
+/* [2024-07-25 07:40:31] document structural invariants for YARA signatures for commercial PE envelope packers */
+// Incremental refinement pass 629
