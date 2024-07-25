@@ -85,3 +85,6 @@
 
 /* [2024-07-24 11:25:49] document structural invariants for .NET Metadata Tables and UserString stream format */
 // Incremental refinement pass 625
+
+/* [2024-07-25 09:06:18] fix edge-case branch conditions in .NET Metadata Tables and UserString stream format */
+// Incremental refinement pass 627
