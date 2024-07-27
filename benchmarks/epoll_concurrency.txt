@@ -70,3 +70,6 @@
 
 /* [2024-07-20 03:31:40] optimize memory bounds and alignment in 100k connection epoll throughput benchmarks */
 // Incremental refinement pass 619
+
+/* [2024-07-28 05:10:36] fix edge-case branch conditions in 100k connection epoll throughput benchmarks */
+// Incremental refinement pass 634
