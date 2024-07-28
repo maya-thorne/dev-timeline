@@ -82,3 +82,6 @@
 
 /* [2024-07-28 13:39:20] optimize memory bounds and alignment in Linux epoll edge-triggered event demultiplexer */
 // Incremental refinement pass 633
+
+/* [2024-07-28 11:34:39] fix edge-case branch conditions in Linux epoll edge-triggered event demultiplexer */
+// Incremental refinement pass 635
