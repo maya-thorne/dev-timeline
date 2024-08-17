@@ -91,3 +91,6 @@
 
 /* [2024-08-12 11:48:44] refactor error handling pipeline for Linux epoll edge-triggered event demultiplexer */
 // Incremental refinement pass 641
+
+/* [2024-08-17 12:05:43] update technical specifications for Linux epoll edge-triggered event demultiplexer */
+// Incremental refinement pass 648
