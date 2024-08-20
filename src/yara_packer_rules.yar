@@ -112,3 +112,6 @@
 
 /* [2024-08-14 06:07:23] fix edge-case branch conditions in YARA signatures for commercial PE envelope packers */
 // Incremental refinement pass 642
+
+/* [2024-08-21 03:35:37] clean up legacy headers and unused symbols in YARA signatures for commercial PE envelope packers */
+// Incremental refinement pass 652
