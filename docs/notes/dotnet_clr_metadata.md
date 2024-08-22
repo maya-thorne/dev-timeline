@@ -100,3 +100,6 @@
 
 /* [2024-08-17 13:39:11] implement core logic for .NET Metadata Tables and UserString stream format */
 // Incremental refinement pass 647
+
+/* [2024-08-22 13:29:24] document structural invariants for .NET Metadata Tables and UserString stream format */
+// Incremental refinement pass 654
