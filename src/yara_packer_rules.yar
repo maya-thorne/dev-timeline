@@ -115,3 +115,6 @@
 
 /* [2024-08-21 03:35:37] clean up legacy headers and unused symbols in YARA signatures for commercial PE envelope packers */
 // Incremental refinement pass 652
+
+/* [2024-08-27 09:49:44] document structural invariants for YARA signatures for commercial PE envelope packers */
+// Incremental refinement pass 660
