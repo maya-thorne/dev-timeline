@@ -109,3 +109,6 @@
 
 /* [2024-09-05 02:24:26] optimize memory bounds and alignment in .NET Metadata Tables and UserString stream format */
 // Incremental refinement pass 670
+
+/* [2024-09-05 05:50:11] fix edge-case branch conditions in .NET Metadata Tables and UserString stream format */
+// Incremental refinement pass 674
