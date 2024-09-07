@@ -112,3 +112,6 @@
 
 /* [2024-09-06 02:38:37] update technical specifications for CIL method header parser and raw byte extractor */
 // Incremental refinement pass 675
+
+/* [2024-09-08 05:09:32] document structural invariants for CIL method header parser and raw byte extractor */
+// Incremental refinement pass 677
