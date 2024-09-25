@@ -112,3 +112,6 @@
 
 /* [2024-09-20 01:20:28] optimize memory bounds and alignment in .NET Reactor NecroBit method decryption flow */
 // Incremental refinement pass 685
+
+/* [2024-09-25 12:40:12] clean up legacy headers and unused symbols in .NET Reactor NecroBit method decryption flow */
+// Incremental refinement pass 689
