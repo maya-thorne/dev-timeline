@@ -124,3 +124,6 @@
 
 /* [2024-09-26 04:42:44] fix edge-case branch conditions in CIL method header parser and raw byte extractor */
 // Incremental refinement pass 690
+
+/* [2024-10-01 04:14:38] implement core logic for CIL method header parser and raw byte extractor */
+// Incremental refinement pass 696
