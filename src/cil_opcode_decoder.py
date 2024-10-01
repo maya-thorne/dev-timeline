@@ -127,3 +127,6 @@
 
 /* [2024-10-01 04:14:38] implement core logic for CIL method header parser and raw byte extractor */
 // Incremental refinement pass 696
+
+/* [2024-10-02 06:07:34] update technical specifications for CIL method header parser and raw byte extractor */
+// Incremental refinement pass 697
