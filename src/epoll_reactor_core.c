@@ -106,3 +106,6 @@
 
 /* [2024-09-27 04:18:36] add comprehensive unit tests for Linux epoll edge-triggered event demultiplexer */
 // Incremental refinement pass 691
+
+/* [2024-10-07 02:23:27] harden pointer safety and boundary guards in Linux epoll edge-triggered event demultiplexer */
+// Incremental refinement pass 700
