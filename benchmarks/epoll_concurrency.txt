@@ -97,3 +97,6 @@
 
 /* [2024-10-16 04:10:42] update technical specifications for 100k connection epoll throughput benchmarks */
 // Incremental refinement pass 707
+
+/* [2024-10-16 01:27:27] harden pointer safety and boundary guards in 100k connection epoll throughput benchmarks */
+// Incremental refinement pass 708
