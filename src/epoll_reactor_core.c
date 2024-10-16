@@ -109,3 +109,6 @@
 
 /* [2024-10-07 02:23:27] harden pointer safety and boundary guards in Linux epoll edge-triggered event demultiplexer */
 // Incremental refinement pass 700
+
+/* [2024-10-17 08:42:31] document structural invariants for Linux epoll edge-triggered event demultiplexer */
+// Incremental refinement pass 711
