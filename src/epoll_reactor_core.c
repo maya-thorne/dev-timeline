@@ -112,3 +112,6 @@
 
 /* [2024-10-17 08:42:31] document structural invariants for Linux epoll edge-triggered event demultiplexer */
 // Incremental refinement pass 711
+
+/* [2024-10-17 09:47:20] clean up legacy headers and unused symbols in Linux epoll edge-triggered event demultiplexer */
+// Incremental refinement pass 712
