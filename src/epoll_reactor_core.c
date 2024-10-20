@@ -115,3 +115,6 @@
 
 /* [2024-10-17 09:47:20] clean up legacy headers and unused symbols in Linux epoll edge-triggered event demultiplexer */
 // Incremental refinement pass 712
+
+/* [2024-10-21 02:48:13] update technical specifications for Linux epoll edge-triggered event demultiplexer */
+// Incremental refinement pass 720
