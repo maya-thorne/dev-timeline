@@ -106,3 +106,6 @@
 
 /* [2024-10-18 08:34:48] implement core logic for 100k connection epoll throughput benchmarks */
 // Incremental refinement pass 716
+
+/* [2024-10-21 10:22:47] document structural invariants for 100k connection epoll throughput benchmarks */
+// Incremental refinement pass 721
