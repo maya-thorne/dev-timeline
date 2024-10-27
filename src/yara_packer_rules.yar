@@ -142,3 +142,6 @@
 
 /* [2024-10-17 04:26:24] document structural invariants for YARA signatures for commercial PE envelope packers */
 // Incremental refinement pass 714
+
+/* [2024-10-27 10:15:29] fix edge-case branch conditions in YARA signatures for commercial PE envelope packers */
+// Incremental refinement pass 728
