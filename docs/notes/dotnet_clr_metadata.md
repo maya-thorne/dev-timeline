@@ -148,3 +148,6 @@
 
 /* [2024-10-22 10:24:49] clean up legacy headers and unused symbols in .NET Metadata Tables and UserString stream format */
 // Incremental refinement pass 722
+
+/* [2024-10-29 11:10:39] update technical specifications for .NET Metadata Tables and UserString stream format */
+// Incremental refinement pass 730
