@@ -139,3 +139,6 @@
 
 /* [2024-10-21 08:50:20] document structural invariants for CIL method header parser and raw byte extractor */
 // Incremental refinement pass 719
+
+/* [2024-11-02 08:26:19] optimize memory bounds and alignment in CIL method header parser and raw byte extractor */
+// Incremental refinement pass 736
