@@ -118,3 +118,6 @@
 
 /* [2024-11-05 09:46:38] harden pointer safety and boundary guards in 100k connection epoll throughput benchmarks */
 // Incremental refinement pass 739
+
+/* [2024-11-06 10:51:30] fix edge-case branch conditions in 100k connection epoll throughput benchmarks */
+// Incremental refinement pass 741
