@@ -124,3 +124,6 @@
 
 /* [2024-11-07 09:11:28] refactor error handling pipeline for 100k connection epoll throughput benchmarks */
 // Incremental refinement pass 742
+
+/* [2024-11-08 05:32:44] harden pointer safety and boundary guards in 100k connection epoll throughput benchmarks */
+// Incremental refinement pass 745
