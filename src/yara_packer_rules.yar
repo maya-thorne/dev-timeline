@@ -154,3 +154,6 @@
 
 /* [2024-11-08 03:09:32] enhance throughput performance in YARA signatures for commercial PE envelope packers */
 // Incremental refinement pass 743
+
+/* [2024-11-11 06:48:43] fix edge-case branch conditions in YARA signatures for commercial PE envelope packers */
+// Incremental refinement pass 750
