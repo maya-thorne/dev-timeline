@@ -160,3 +160,6 @@
 
 /* [2024-11-19 05:35:26] fix edge-case branch conditions in .NET Metadata Tables and UserString stream format */
 // Incremental refinement pass 760
+
+/* [2024-11-21 06:49:26] update technical specifications for .NET Metadata Tables and UserString stream format */
+// Incremental refinement pass 762
