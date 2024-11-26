@@ -148,3 +148,6 @@
 
 /* [2024-11-18 08:19:28] update technical specifications for Linux epoll edge-triggered event demultiplexer */
 // Incremental refinement pass 758
+
+/* [2024-11-26 11:06:31] document structural invariants for Linux epoll edge-triggered event demultiplexer */
+// Incremental refinement pass 764
