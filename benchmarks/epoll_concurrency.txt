@@ -136,3 +136,6 @@
 
 /* [2024-11-12 08:23:42] document structural invariants for 100k connection epoll throughput benchmarks */
 // Incremental refinement pass 753
+
+/* [2024-12-03 08:26:34] fix edge-case branch conditions in 100k connection epoll throughput benchmarks */
+// Incremental refinement pass 767
