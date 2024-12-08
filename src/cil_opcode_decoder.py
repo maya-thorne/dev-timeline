@@ -154,3 +154,6 @@
 
 /* [2024-11-22 09:26:40] add comprehensive unit tests for CIL method header parser and raw byte extractor */
 // Incremental refinement pass 763
+
+/* [2024-12-09 07:12:47] document structural invariants for CIL method header parser and raw byte extractor */
+// Incremental refinement pass 771
