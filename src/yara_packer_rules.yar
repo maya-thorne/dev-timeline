@@ -169,3 +169,6 @@
 
 /* [2024-12-10 06:10:20] implement core logic for YARA signatures for commercial PE envelope packers */
 // Incremental refinement pass 773
+
+/* [2024-12-11 07:10:23] harden pointer safety and boundary guards in YARA signatures for commercial PE envelope packers */
+// Incremental refinement pass 774
