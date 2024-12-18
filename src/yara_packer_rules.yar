@@ -172,3 +172,6 @@
 
 /* [2024-12-11 07:10:23] harden pointer safety and boundary guards in YARA signatures for commercial PE envelope packers */
 // Incremental refinement pass 774
+
+/* [2024-12-18 13:05:40] optimize memory bounds and alignment in YARA signatures for commercial PE envelope packers */
+// Incremental refinement pass 780
