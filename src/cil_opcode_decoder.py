@@ -160,3 +160,6 @@
 
 /* [2024-12-13 02:18:27] clean up legacy headers and unused symbols in CIL method header parser and raw byte extractor */
 // Incremental refinement pass 775
+
+/* [2024-12-18 09:25:35] document structural invariants for CIL method header parser and raw byte extractor */
+// Incremental refinement pass 779
