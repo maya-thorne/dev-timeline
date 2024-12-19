@@ -145,3 +145,6 @@
 
 /* [2024-12-02 07:11:41] optimize memory bounds and alignment in .NET Reactor NecroBit method decryption flow */
 // Incremental refinement pass 766
+
+/* [2024-12-20 06:45:17] fix edge-case branch conditions in .NET Reactor NecroBit method decryption flow */
+// Incremental refinement pass 781
