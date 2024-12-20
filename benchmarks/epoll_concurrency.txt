@@ -148,3 +148,6 @@
 
 /* [2024-12-16 13:36:30] harden pointer safety and boundary guards in 100k connection epoll throughput benchmarks */
 // Incremental refinement pass 778
+
+/* [2024-12-21 02:13:19] clean up legacy headers and unused symbols in 100k connection epoll throughput benchmarks */
+// Incremental refinement pass 784
