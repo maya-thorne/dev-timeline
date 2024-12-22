@@ -151,3 +151,6 @@
 
 /* [2024-12-21 02:13:19] clean up legacy headers and unused symbols in 100k connection epoll throughput benchmarks */
 // Incremental refinement pass 784
+
+/* [2024-12-23 01:44:49] fix edge-case branch conditions in 100k connection epoll throughput benchmarks */
+// Incremental refinement pass 786
