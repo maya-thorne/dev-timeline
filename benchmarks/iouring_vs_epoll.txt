@@ -7,3 +7,6 @@
 
 /* [2025-01-08 01:30:34] implement core logic for comparative throughput: io_uring vs epoll */
 // Incremental refinement pass 803
+
+/* [2025-01-14 11:54:47] document structural invariants for comparative throughput: io_uring vs epoll */
+// Incremental refinement pass 805
