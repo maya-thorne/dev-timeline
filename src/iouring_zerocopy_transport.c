@@ -13,3 +13,6 @@
 
 /* [2025-01-14 09:54:48] update technical specifications for io_uring registered buffers zero-copy transport */
 // Incremental refinement pass 806
+
+/* [2025-01-20 07:49:16] refactor error handling pipeline for io_uring registered buffers zero-copy transport */
+// Incremental refinement pass 809
