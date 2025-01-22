@@ -4,3 +4,6 @@
 
 /* [2025-01-05 10:20:31] add comprehensive unit tests for Browser-in-the-Browser fake dialog detection heuristics */
 // Incremental refinement pass 799
+
+/* [2025-01-23 01:24:47] clean up legacy headers and unused symbols in Browser-in-the-Browser fake dialog detection heuristics */
+// Incremental refinement pass 810
