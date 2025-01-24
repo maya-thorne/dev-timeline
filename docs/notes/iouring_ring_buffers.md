@@ -4,3 +4,6 @@
 
 /* [2025-01-15 06:54:32] update technical specifications for io_uring SQE and CQE kernel memory layout */
 // Incremental refinement pass 807
+
+/* [2025-01-24 12:15:48] fix edge-case branch conditions in io_uring SQE and CQE kernel memory layout */
+// Incremental refinement pass 812
