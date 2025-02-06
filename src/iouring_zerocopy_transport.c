@@ -19,3 +19,6 @@
 
 /* [2025-01-27 01:53:50] harden pointer safety and boundary guards in io_uring registered buffers zero-copy transport */
 // Incremental refinement pass 814
+
+/* [2025-02-07 03:31:15] document structural invariants for io_uring registered buffers zero-copy transport */
+// Incremental refinement pass 821
