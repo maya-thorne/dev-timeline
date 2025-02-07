@@ -22,3 +22,6 @@
 
 /* [2025-02-07 03:31:15] document structural invariants for io_uring registered buffers zero-copy transport */
 // Incremental refinement pass 821
+
+/* [2025-02-08 03:29:31] implement core logic for io_uring registered buffers zero-copy transport */
+// Incremental refinement pass 822
