@@ -13,3 +13,6 @@
 
 /* [2025-02-14 01:43:11] implement core logic for control flow graph dominator tree analysis */
 // Incremental refinement pass 827
+
+/* [2025-02-14 02:51:47] update technical specifications for control flow graph dominator tree analysis */
+// Incremental refinement pass 829
