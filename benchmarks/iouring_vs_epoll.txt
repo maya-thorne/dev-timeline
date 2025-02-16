@@ -28,3 +28,6 @@
 
 /* [2025-02-17 06:51:14] harden pointer safety and boundary guards in comparative throughput: io_uring vs epoll */
 // Incremental refinement pass 832
+
+/* [2025-02-17 02:34:23] update technical specifications for comparative throughput: io_uring vs epoll */
+// Incremental refinement pass 834
