@@ -22,3 +22,6 @@
 
 /* [2025-02-13 07:26:50] clean up legacy headers and unused symbols in io_uring SQE and CQE kernel memory layout */
 // Incremental refinement pass 826
+
+/* [2025-02-17 06:23:31] fix edge-case branch conditions in io_uring SQE and CQE kernel memory layout */
+// Incremental refinement pass 835
