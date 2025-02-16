@@ -25,3 +25,6 @@
 
 /* [2025-02-14 08:26:33] implement core logic for comparative throughput: io_uring vs epoll */
 // Incremental refinement pass 831
+
+/* [2025-02-17 06:51:14] harden pointer safety and boundary guards in comparative throughput: io_uring vs epoll */
+// Incremental refinement pass 832
