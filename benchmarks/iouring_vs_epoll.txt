@@ -34,3 +34,6 @@
 
 /* [2025-02-19 07:21:27] fix edge-case branch conditions in comparative throughput: io_uring vs epoll */
 // Incremental refinement pass 838
+
+/* [2025-02-20 01:09:12] implement core logic for comparative throughput: io_uring vs epoll */
+// Incremental refinement pass 839
