@@ -25,3 +25,6 @@
 
 /* [2025-02-17 06:23:31] fix edge-case branch conditions in io_uring SQE and CQE kernel memory layout */
 // Incremental refinement pass 835
+
+/* [2025-02-25 07:41:33] document structural invariants for io_uring SQE and CQE kernel memory layout */
+// Incremental refinement pass 843
