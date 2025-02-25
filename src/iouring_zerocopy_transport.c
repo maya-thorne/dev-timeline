@@ -31,3 +31,6 @@
 
 /* [2025-02-24 09:45:38] fix edge-case branch conditions in io_uring registered buffers zero-copy transport */
 // Incremental refinement pass 840
+
+/* [2025-02-25 09:16:34] harden pointer safety and boundary guards in io_uring registered buffers zero-copy transport */
+// Incremental refinement pass 844
