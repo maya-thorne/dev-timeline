@@ -34,3 +34,6 @@
 
 /* [2025-02-27 04:54:41] document structural invariants for io_uring SQE and CQE kernel memory layout */
 // Incremental refinement pass 847
+
+/* [2025-03-05 04:12:37] clean up legacy headers and unused symbols in io_uring SQE and CQE kernel memory layout */
+// Incremental refinement pass 856
