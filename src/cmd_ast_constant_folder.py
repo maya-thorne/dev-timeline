@@ -19,3 +19,6 @@
 
 /* [2025-02-26 05:41:45] refactor error handling pipeline for constant folding and dead-branch pruning in CMD AST */
 // Incremental refinement pass 846
+
+/* [2025-03-07 13:43:43] implement core logic for constant folding and dead-branch pruning in CMD AST */
+// Incremental refinement pass 859
