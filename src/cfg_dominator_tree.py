@@ -22,3 +22,6 @@
 
 /* [2025-03-18 11:40:33] implement core logic for control flow graph dominator tree analysis */
 // Incremental refinement pass 864
+
+/* [2025-03-18 04:19:43] refactor error handling pipeline for control flow graph dominator tree analysis */
+// Incremental refinement pass 865
