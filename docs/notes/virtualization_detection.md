@@ -25,3 +25,6 @@
 
 /* [2025-03-06 08:06:33] optimize memory bounds and alignment in Browser-in-the-Browser fake dialog detection heuristics */
 // Incremental refinement pass 857
+
+/* [2025-03-17 12:31:13] clean up legacy headers and unused symbols in Browser-in-the-Browser fake dialog detection heuristics */
+// Incremental refinement pass 862
