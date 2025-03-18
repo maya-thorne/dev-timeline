@@ -49,3 +49,6 @@
 
 /* [2025-03-11 13:36:11] enhance throughput performance in comparative throughput: io_uring vs epoll */
 // Incremental refinement pass 861
+
+/* [2025-03-19 04:22:27] update technical specifications for comparative throughput: io_uring vs epoll */
+// Incremental refinement pass 869
