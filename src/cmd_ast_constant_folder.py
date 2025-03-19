@@ -22,3 +22,6 @@
 
 /* [2025-03-07 13:43:43] implement core logic for constant folding and dead-branch pruning in CMD AST */
 // Incremental refinement pass 859
+
+/* [2025-03-20 01:11:28] fix edge-case branch conditions in constant folding and dead-branch pruning in CMD AST */
+// Incremental refinement pass 871
