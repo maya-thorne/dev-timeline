@@ -37,3 +37,6 @@
 
 /* [2025-03-24 01:52:19] document structural invariants for Browser-in-the-Browser fake dialog detection heuristics */
 // Incremental refinement pass 873
+
+/* [2025-03-24 08:28:18] clean up legacy headers and unused symbols in Browser-in-the-Browser fake dialog detection heuristics */
+// Incremental refinement pass 874
