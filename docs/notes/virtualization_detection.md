@@ -34,3 +34,6 @@
 
 /* [2025-03-18 06:50:35] document structural invariants for Browser-in-the-Browser fake dialog detection heuristics */
 // Incremental refinement pass 867
+
+/* [2025-03-24 01:52:19] document structural invariants for Browser-in-the-Browser fake dialog detection heuristics */
+// Incremental refinement pass 873
