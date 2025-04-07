@@ -28,3 +28,6 @@
 
 /* [2025-03-25 05:27:33] add comprehensive unit tests for constant folding and dead-branch pruning in CMD AST */
 // Incremental refinement pass 875
+
+/* [2025-04-08 08:48:41] implement core logic for constant folding and dead-branch pruning in CMD AST */
+// Incremental refinement pass 885
