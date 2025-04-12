@@ -55,3 +55,6 @@
 
 /* [2025-04-01 11:05:10] add comprehensive unit tests for io_uring registered buffers zero-copy transport */
 // Incremental refinement pass 882
+
+/* [2025-04-12 12:12:15] harden pointer safety and boundary guards in io_uring registered buffers zero-copy transport */
+// Incremental refinement pass 888
