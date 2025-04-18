@@ -67,3 +67,6 @@
 
 /* [2025-04-17 05:49:29] add comprehensive unit tests for comparative throughput: io_uring vs epoll */
 // Incremental refinement pass 892
+
+/* [2025-04-18 10:48:23] document structural invariants for comparative throughput: io_uring vs epoll */
+// Incremental refinement pass 893
