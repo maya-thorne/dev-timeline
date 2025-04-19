@@ -52,3 +52,6 @@
 
 /* [2025-04-18 03:46:46] add comprehensive unit tests for Browser-in-the-Browser fake dialog detection heuristics */
 // Incremental refinement pass 894
+
+/* [2025-04-19 12:51:19] harden pointer safety and boundary guards in Browser-in-the-Browser fake dialog detection heuristics */
+// Incremental refinement pass 896
