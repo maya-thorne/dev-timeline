@@ -49,3 +49,6 @@
 
 /* [2025-05-01 11:16:37] optimize memory bounds and alignment in io_uring SQE and CQE kernel memory layout */
 // Incremental refinement pass 904
+
+/* [2025-05-06 04:46:45] clean up legacy headers and unused symbols in io_uring SQE and CQE kernel memory layout */
+// Incremental refinement pass 908
