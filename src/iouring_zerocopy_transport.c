@@ -70,3 +70,6 @@
 
 /* [2025-05-06 03:42:33] clean up legacy headers and unused symbols in io_uring registered buffers zero-copy transport */
 // Incremental refinement pass 907
+
+/* [2025-05-07 04:08:26] update technical specifications for io_uring registered buffers zero-copy transport */
+// Incremental refinement pass 911
