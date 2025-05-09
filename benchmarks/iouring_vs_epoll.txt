@@ -70,3 +70,6 @@
 
 /* [2025-04-18 10:48:23] document structural invariants for comparative throughput: io_uring vs epoll */
 // Incremental refinement pass 893
+
+/* [2025-05-09 09:46:37] update technical specifications for comparative throughput: io_uring vs epoll */
+// Incremental refinement pass 915
