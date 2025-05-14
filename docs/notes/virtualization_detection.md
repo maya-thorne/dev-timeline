@@ -58,3 +58,6 @@
 
 /* [2025-05-07 12:54:40] update technical specifications for Browser-in-the-Browser fake dialog detection heuristics */
 // Incremental refinement pass 909
+
+/* [2025-05-15 01:42:27] refactor error handling pipeline for Browser-in-the-Browser fake dialog detection heuristics */
+// Incremental refinement pass 920
