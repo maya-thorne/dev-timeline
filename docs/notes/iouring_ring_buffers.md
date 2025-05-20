@@ -61,3 +61,6 @@
 
 /* [2025-05-09 04:47:27] optimize memory bounds and alignment in io_uring SQE and CQE kernel memory layout */
 // Incremental refinement pass 914
+
+/* [2025-05-21 08:21:34] harden pointer safety and boundary guards in io_uring SQE and CQE kernel memory layout */
+// Incremental refinement pass 926
