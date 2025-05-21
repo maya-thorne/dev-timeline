@@ -64,3 +64,6 @@
 
 /* [2025-05-16 08:29:43] enhance throughput performance in Browser-in-the-Browser fake dialog detection heuristics */
 // Incremental refinement pass 922
+
+/* [2025-05-22 05:53:46] update technical specifications for Browser-in-the-Browser fake dialog detection heuristics */
+// Incremental refinement pass 927
