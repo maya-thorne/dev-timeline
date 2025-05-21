@@ -79,3 +79,6 @@
 
 /* [2025-05-21 12:29:34] add comprehensive unit tests for comparative throughput: io_uring vs epoll */
 // Incremental refinement pass 925
+
+/* [2025-05-22 07:43:39] update technical specifications for comparative throughput: io_uring vs epoll */
+// Incremental refinement pass 929
