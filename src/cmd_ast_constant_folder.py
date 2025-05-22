@@ -52,3 +52,6 @@
 
 /* [2025-05-16 07:44:31] harden pointer safety and boundary guards in constant folding and dead-branch pruning in CMD AST */
 // Incremental refinement pass 921
+
+/* [2025-05-22 13:19:38] clean up legacy headers and unused symbols in constant folding and dead-branch pruning in CMD AST */
+// Incremental refinement pass 931
