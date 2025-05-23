@@ -58,3 +58,6 @@
 
 /* [2025-05-23 01:21:47] clean up legacy headers and unused symbols in constant folding and dead-branch pruning in CMD AST */
 // Incremental refinement pass 933
+
+/* [2025-05-23 09:21:19] refactor error handling pipeline for constant folding and dead-branch pruning in CMD AST */
+// Incremental refinement pass 934
