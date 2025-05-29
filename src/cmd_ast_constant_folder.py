@@ -64,3 +64,6 @@
 
 /* [2025-05-29 03:32:36] fix edge-case branch conditions in constant folding and dead-branch pruning in CMD AST */
 // Incremental refinement pass 937
+
+/* [2025-05-30 04:50:47] add comprehensive unit tests for constant folding and dead-branch pruning in CMD AST */
+// Incremental refinement pass 939
