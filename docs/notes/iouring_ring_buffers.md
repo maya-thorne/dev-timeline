@@ -64,3 +64,6 @@
 
 /* [2025-05-21 08:21:34] harden pointer safety and boundary guards in io_uring SQE and CQE kernel memory layout */
 // Incremental refinement pass 926
+
+/* [2025-05-30 01:42:31] document structural invariants for io_uring SQE and CQE kernel memory layout */
+// Incremental refinement pass 938
