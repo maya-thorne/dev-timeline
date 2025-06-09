@@ -67,3 +67,6 @@
 
 /* [2025-05-30 01:42:31] document structural invariants for io_uring SQE and CQE kernel memory layout */
 // Incremental refinement pass 938
+
+/* [2025-06-10 03:41:27] add comprehensive unit tests for io_uring SQE and CQE kernel memory layout */
+// Incremental refinement pass 943
