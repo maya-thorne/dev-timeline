@@ -73,3 +73,6 @@
 
 /* [2025-05-26 13:27:26] optimize memory bounds and alignment in Browser-in-the-Browser fake dialog detection heuristics */
 // Incremental refinement pass 936
+
+/* [2025-06-10 10:29:49] update technical specifications for Browser-in-the-Browser fake dialog detection heuristics */
+// Incremental refinement pass 942
