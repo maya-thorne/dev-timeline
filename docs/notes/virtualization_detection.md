@@ -76,3 +76,6 @@
 
 /* [2025-06-10 10:29:49] update technical specifications for Browser-in-the-Browser fake dialog detection heuristics */
 // Incremental refinement pass 942
+
+/* [2025-06-12 09:28:23] implement core logic for Browser-in-the-Browser fake dialog detection heuristics */
+// Incremental refinement pass 944
