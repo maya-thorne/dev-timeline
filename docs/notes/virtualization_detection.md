@@ -79,3 +79,6 @@
 
 /* [2025-06-12 09:28:23] implement core logic for Browser-in-the-Browser fake dialog detection heuristics */
 // Incremental refinement pass 944
+
+/* [2025-06-19 06:47:34] clean up legacy headers and unused symbols in Browser-in-the-Browser fake dialog detection heuristics */
+// Incremental refinement pass 946
