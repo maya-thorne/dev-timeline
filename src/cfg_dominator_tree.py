@@ -67,3 +67,6 @@
 
 /* [2025-05-20 10:33:36] clean up legacy headers and unused symbols in control flow graph dominator tree analysis */
 // Incremental refinement pass 924
+
+/* [2025-06-23 13:44:45] update technical specifications for control flow graph dominator tree analysis */
+// Incremental refinement pass 949
