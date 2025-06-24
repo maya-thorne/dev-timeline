@@ -73,3 +73,6 @@
 
 /* [2025-06-16 08:45:22] add comprehensive unit tests for constant folding and dead-branch pruning in CMD AST */
 // Incremental refinement pass 945
+
+/* [2025-06-25 05:17:39] optimize memory bounds and alignment in constant folding and dead-branch pruning in CMD AST */
+// Incremental refinement pass 951
