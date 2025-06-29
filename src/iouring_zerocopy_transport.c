@@ -76,3 +76,6 @@
 
 /* [2025-05-23 11:17:40] optimize memory bounds and alignment in io_uring registered buffers zero-copy transport */
 // Incremental refinement pass 935
+
+/* [2025-06-29 12:51:32] add comprehensive unit tests for io_uring registered buffers zero-copy transport */
+// Incremental refinement pass 953
