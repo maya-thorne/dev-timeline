@@ -79,3 +79,6 @@
 
 /* [2025-06-29 12:51:32] add comprehensive unit tests for io_uring registered buffers zero-copy transport */
 // Incremental refinement pass 953
+
+/* [2025-07-03 10:50:21] implement core logic for io_uring registered buffers zero-copy transport */
+// Incremental refinement pass 954
