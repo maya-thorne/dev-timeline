@@ -79,3 +79,6 @@
 
 /* [2025-07-09 08:37:30] document structural invariants for control flow graph dominator tree analysis */
 // Incremental refinement pass 958
+
+/* [2025-07-14 11:25:30] fix edge-case branch conditions in control flow graph dominator tree analysis */
+// Incremental refinement pass 961
