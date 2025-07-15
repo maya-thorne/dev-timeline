@@ -82,3 +82,6 @@
 
 /* [2025-07-14 01:28:40] clean up legacy headers and unused symbols in constant folding and dead-branch pruning in CMD AST */
 // Incremental refinement pass 962
+
+/* [2025-07-15 09:08:13] optimize memory bounds and alignment in constant folding and dead-branch pruning in CMD AST */
+// Incremental refinement pass 963
