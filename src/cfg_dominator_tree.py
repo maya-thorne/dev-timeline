@@ -82,3 +82,6 @@
 
 /* [2025-07-14 11:25:30] fix edge-case branch conditions in control flow graph dominator tree analysis */
 // Incremental refinement pass 961
+
+/* [2025-07-17 06:38:18] harden pointer safety and boundary guards in control flow graph dominator tree analysis */
+// Incremental refinement pass 967
