@@ -88,3 +88,6 @@
 
 /* [2025-07-15 03:54:43] fix edge-case branch conditions in constant folding and dead-branch pruning in CMD AST */
 // Incremental refinement pass 964
+
+/* [2025-07-20 01:46:20] update technical specifications for constant folding and dead-branch pruning in CMD AST */
+// Incremental refinement pass 969
