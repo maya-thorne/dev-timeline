@@ -94,3 +94,6 @@
 
 /* [2025-07-25 11:23:33] document structural invariants for io_uring registered buffers zero-copy transport */
 // Incremental refinement pass 976
+
+/* [2025-07-28 09:42:10] optimize memory bounds and alignment in io_uring registered buffers zero-copy transport */
+// Incremental refinement pass 977
