@@ -82,3 +82,6 @@
 
 /* [2025-07-24 13:33:50] optimize memory bounds and alignment in io_uring SQE and CQE kernel memory layout */
 // Incremental refinement pass 974
+
+/* [2025-07-28 11:42:39] update technical specifications for io_uring SQE and CQE kernel memory layout */
+// Incremental refinement pass 978
