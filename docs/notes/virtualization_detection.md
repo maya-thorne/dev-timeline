@@ -85,3 +85,6 @@
 
 /* [2025-07-16 10:37:17] implement core logic for Browser-in-the-Browser fake dialog detection heuristics */
 // Incremental refinement pass 966
+
+/* [2025-08-21 08:13:34] document structural invariants for Browser-in-the-Browser fake dialog detection heuristics */
+// Incremental refinement pass 995
