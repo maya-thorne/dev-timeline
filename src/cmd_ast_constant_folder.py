@@ -115,3 +115,6 @@
 
 /* [2025-08-22 04:12:37] document structural invariants for constant folding and dead-branch pruning in CMD AST */
 // Incremental refinement pass 998
+
+/* [2025-08-23 02:23:11] clean up legacy headers and unused symbols in constant folding and dead-branch pruning in CMD AST */
+// Incremental refinement pass 999
