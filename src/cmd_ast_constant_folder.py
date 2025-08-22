@@ -109,3 +109,6 @@
 
 /* [2025-08-13 12:53:41] optimize memory bounds and alignment in constant folding and dead-branch pruning in CMD AST */
 // Incremental refinement pass 986
+
+/* [2025-08-22 13:44:29] enhance throughput performance in constant folding and dead-branch pruning in CMD AST */
+// Incremental refinement pass 997
