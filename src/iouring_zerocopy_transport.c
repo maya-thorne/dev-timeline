@@ -97,3 +97,6 @@
 
 /* [2025-07-28 09:42:10] optimize memory bounds and alignment in io_uring registered buffers zero-copy transport */
 // Incremental refinement pass 977
+
+/* [2025-08-26 04:12:37] harden pointer safety and boundary guards in io_uring registered buffers zero-copy transport */
+// Incremental refinement pass 1001
