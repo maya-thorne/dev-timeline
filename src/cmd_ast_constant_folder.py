@@ -124,3 +124,6 @@
 
 /* [2025-08-28 01:55:24] optimize memory bounds and alignment in constant folding and dead-branch pruning in CMD AST */
 // Incremental refinement pass 1002
+
+/* [2025-08-28 03:29:27] refactor error handling pipeline for constant folding and dead-branch pruning in CMD AST */
+// Incremental refinement pass 1003
