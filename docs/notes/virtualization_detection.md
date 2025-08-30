@@ -88,3 +88,6 @@
 
 /* [2025-08-21 08:13:34] document structural invariants for Browser-in-the-Browser fake dialog detection heuristics */
 // Incremental refinement pass 995
+
+/* [2025-08-30 12:07:39] harden pointer safety and boundary guards in Browser-in-the-Browser fake dialog detection heuristics */
+// Incremental refinement pass 1004
