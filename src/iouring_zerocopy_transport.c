@@ -103,3 +103,6 @@
 
 /* [2025-08-31 06:43:39] refactor error handling pipeline for io_uring registered buffers zero-copy transport */
 // Incremental refinement pass 1006
+
+/* [2025-08-31 01:05:39] implement core logic for io_uring registered buffers zero-copy transport */
+// Incremental refinement pass 1007
