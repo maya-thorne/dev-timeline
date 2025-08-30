@@ -100,3 +100,6 @@
 
 /* [2025-08-30 08:26:31] refactor error handling pipeline for io_uring SQE and CQE kernel memory layout */
 // Incremental refinement pass 1005
+
+/* [2025-08-31 08:23:47] fix edge-case branch conditions in io_uring SQE and CQE kernel memory layout */
+// Incremental refinement pass 1008
