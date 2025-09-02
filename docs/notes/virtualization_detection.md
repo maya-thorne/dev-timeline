@@ -91,3 +91,6 @@
 
 /* [2025-08-30 12:07:39] harden pointer safety and boundary guards in Browser-in-the-Browser fake dialog detection heuristics */
 // Incremental refinement pass 1004
+
+/* [2025-09-03 08:41:32] enhance throughput performance in Browser-in-the-Browser fake dialog detection heuristics */
+// Incremental refinement pass 1009
