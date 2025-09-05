@@ -121,3 +121,6 @@
 
 /* [2025-09-04 07:53:29] add comprehensive unit tests for control flow graph dominator tree analysis */
 // Incremental refinement pass 1014
+
+/* [2025-09-06 06:48:18] fix edge-case branch conditions in control flow graph dominator tree analysis */
+// Incremental refinement pass 1017
