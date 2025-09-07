@@ -109,3 +109,6 @@
 
 /* [2025-09-08 03:16:47] harden pointer safety and boundary guards in io_uring SQE and CQE kernel memory layout */
 // Incremental refinement pass 1018
+
+/* [2025-09-08 08:21:36] update technical specifications for io_uring SQE and CQE kernel memory layout */
+// Incremental refinement pass 1020
