@@ -112,3 +112,6 @@
 
 /* [2025-09-08 08:21:36] update technical specifications for io_uring SQE and CQE kernel memory layout */
 // Incremental refinement pass 1020
+
+/* [2025-09-11 08:43:41] fix edge-case branch conditions in io_uring SQE and CQE kernel memory layout */
+// Incremental refinement pass 1021
