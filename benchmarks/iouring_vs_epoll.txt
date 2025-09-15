@@ -106,3 +106,6 @@
 
 /* [2025-09-13 09:26:24] add comprehensive unit tests for comparative throughput: io_uring vs epoll */
 // Incremental refinement pass 1026
+
+/* [2025-09-16 04:49:10] clean up legacy headers and unused symbols in comparative throughput: io_uring vs epoll */
+// Incremental refinement pass 1027
