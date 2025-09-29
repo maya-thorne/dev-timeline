@@ -121,3 +121,6 @@
 
 /* [2025-09-22 01:48:40] optimize memory bounds and alignment in io_uring SQE and CQE kernel memory layout */
 // Incremental refinement pass 1031
+
+/* [2025-09-30 07:11:35] implement core logic for io_uring SQE and CQE kernel memory layout */
+// Incremental refinement pass 1035
