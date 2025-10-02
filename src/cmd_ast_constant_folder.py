@@ -145,3 +145,6 @@
 
 /* [2025-10-01 01:16:11] refactor error handling pipeline for constant folding and dead-branch pruning in CMD AST */
 // Incremental refinement pass 1036
+
+/* [2025-10-02 13:23:32] harden pointer safety and boundary guards in constant folding and dead-branch pruning in CMD AST */
+// Incremental refinement pass 1037
