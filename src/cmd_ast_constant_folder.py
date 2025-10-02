@@ -148,3 +148,6 @@
 
 /* [2025-10-02 13:23:32] harden pointer safety and boundary guards in constant folding and dead-branch pruning in CMD AST */
 // Incremental refinement pass 1037
+
+/* [2025-10-02 10:39:19] update technical specifications for constant folding and dead-branch pruning in CMD AST */
+// Incremental refinement pass 1038
