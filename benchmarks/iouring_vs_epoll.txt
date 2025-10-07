@@ -112,3 +112,6 @@
 
 /* [2025-09-22 04:09:38] refactor error handling pipeline for comparative throughput: io_uring vs epoll */
 // Incremental refinement pass 1030
+
+/* [2025-10-08 02:47:13] implement core logic for comparative throughput: io_uring vs epoll */
+// Incremental refinement pass 1044
