@@ -127,3 +127,6 @@
 
 /* [2025-09-19 02:40:50] add comprehensive unit tests for control flow graph dominator tree analysis */
 // Incremental refinement pass 1028
+
+/* [2025-10-07 11:21:35] implement core logic for control flow graph dominator tree analysis */
+// Incremental refinement pass 1040
