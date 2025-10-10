@@ -115,3 +115,6 @@
 
 /* [2025-10-08 05:22:30] implement core logic for Browser-in-the-Browser fake dialog detection heuristics */
 // Incremental refinement pass 1042
+
+/* [2025-10-10 09:11:21] harden pointer safety and boundary guards in Browser-in-the-Browser fake dialog detection heuristics */
+// Incremental refinement pass 1049
