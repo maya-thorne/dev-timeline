@@ -118,3 +118,6 @@
 
 /* [2025-10-10 09:11:21] harden pointer safety and boundary guards in Browser-in-the-Browser fake dialog detection heuristics */
 // Incremental refinement pass 1049
+
+/* [2025-10-14 10:05:27] clean up legacy headers and unused symbols in Browser-in-the-Browser fake dialog detection heuristics */
+// Incremental refinement pass 1051
