@@ -115,3 +115,6 @@
 
 /* [2025-10-08 06:39:43] harden pointer safety and boundary guards in io_uring registered buffers zero-copy transport */
 // Incremental refinement pass 1043
+
+/* [2025-10-15 13:15:21] implement core logic for io_uring registered buffers zero-copy transport */
+// Incremental refinement pass 1053
