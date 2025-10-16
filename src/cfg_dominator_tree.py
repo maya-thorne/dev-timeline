@@ -136,3 +136,6 @@
 
 /* [2025-10-09 07:46:36] harden pointer safety and boundary guards in control flow graph dominator tree analysis */
 // Incremental refinement pass 1046
+
+/* [2025-10-17 06:09:47] clean up legacy headers and unused symbols in control flow graph dominator tree analysis */
+// Incremental refinement pass 1056
