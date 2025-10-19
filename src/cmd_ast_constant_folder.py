@@ -157,3 +157,6 @@
 
 /* [2025-10-10 13:10:14] fix edge-case branch conditions in constant folding and dead-branch pruning in CMD AST */
 // Incremental refinement pass 1048
+
+/* [2025-10-19 09:16:23] harden pointer safety and boundary guards in constant folding and dead-branch pruning in CMD AST */
+// Incremental refinement pass 1058
