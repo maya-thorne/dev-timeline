@@ -139,3 +139,6 @@
 
 /* [2025-10-17 06:09:47] clean up legacy headers and unused symbols in control flow graph dominator tree analysis */
 // Incremental refinement pass 1056
+
+/* [2025-10-19 11:32:29] add comprehensive unit tests for control flow graph dominator tree analysis */
+// Incremental refinement pass 1057
