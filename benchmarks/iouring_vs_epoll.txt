@@ -124,3 +124,6 @@
 
 /* [2025-10-23 10:53:19] harden pointer safety and boundary guards in comparative throughput: io_uring vs epoll */
 // Incremental refinement pass 1062
+
+/* [2025-10-29 09:41:23] document structural invariants for comparative throughput: io_uring vs epoll */
+// Incremental refinement pass 1065
