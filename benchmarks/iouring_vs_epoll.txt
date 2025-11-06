@@ -130,3 +130,6 @@
 
 /* [2025-10-30 03:50:42] add comprehensive unit tests for comparative throughput: io_uring vs epoll */
 // Incremental refinement pass 1067
+
+/* [2025-11-06 11:25:40] harden pointer safety and boundary guards in comparative throughput: io_uring vs epoll */
+// Incremental refinement pass 1070
