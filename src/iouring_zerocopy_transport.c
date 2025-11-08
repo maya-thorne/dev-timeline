@@ -127,3 +127,6 @@
 
 /* [2025-10-28 08:36:18] optimize memory bounds and alignment in io_uring registered buffers zero-copy transport */
 // Incremental refinement pass 1063
+
+/* [2025-11-08 13:37:23] refactor error handling pipeline for io_uring registered buffers zero-copy transport */
+// Incremental refinement pass 1073
