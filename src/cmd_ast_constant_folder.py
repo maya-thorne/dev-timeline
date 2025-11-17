@@ -169,3 +169,6 @@
 
 /* [2025-11-10 10:17:32] update technical specifications for constant folding and dead-branch pruning in CMD AST */
 // Incremental refinement pass 1074
+
+/* [2025-11-18 01:14:15] document structural invariants for constant folding and dead-branch pruning in CMD AST */
+// Incremental refinement pass 1079
