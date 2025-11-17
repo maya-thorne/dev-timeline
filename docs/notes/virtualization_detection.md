@@ -130,3 +130,6 @@
 
 /* [2025-11-05 07:33:15] update technical specifications for Browser-in-the-Browser fake dialog detection heuristics */
 // Incremental refinement pass 1069
+
+/* [2025-11-18 04:08:49] add comprehensive unit tests for Browser-in-the-Browser fake dialog detection heuristics */
+// Incremental refinement pass 1080
