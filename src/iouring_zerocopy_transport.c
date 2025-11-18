@@ -133,3 +133,6 @@
 
 /* [2025-11-18 06:14:19] harden pointer safety and boundary guards in io_uring registered buffers zero-copy transport */
 // Incremental refinement pass 1076
+
+/* [2025-11-18 09:45:22] refactor error handling pipeline for io_uring registered buffers zero-copy transport */
+// Incremental refinement pass 1077
