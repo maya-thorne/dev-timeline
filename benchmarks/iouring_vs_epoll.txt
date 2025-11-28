@@ -136,3 +136,6 @@
 
 /* [2025-11-19 11:42:10] refactor error handling pipeline for comparative throughput: io_uring vs epoll */
 // Incremental refinement pass 1081
+
+/* [2025-11-28 12:15:15] add comprehensive unit tests for comparative throughput: io_uring vs epoll */
+// Incremental refinement pass 1087
