@@ -154,3 +154,6 @@
 
 /* [2025-11-28 05:25:16] optimize memory bounds and alignment in control flow graph dominator tree analysis */
 // Incremental refinement pass 1085
+
+/* [2025-12-05 02:08:29] update technical specifications for control flow graph dominator tree analysis */
+// Incremental refinement pass 1091
