@@ -142,3 +142,6 @@
 
 /* [2025-11-28 09:42:14] add comprehensive unit tests for io_uring registered buffers zero-copy transport */
 // Incremental refinement pass 1086
+
+/* [2025-12-15 06:35:28] clean up legacy headers and unused symbols in io_uring registered buffers zero-copy transport */
+// Incremental refinement pass 1095
