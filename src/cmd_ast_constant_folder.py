@@ -178,3 +178,6 @@
 
 /* [2025-12-06 06:28:36] enhance throughput performance in constant folding and dead-branch pruning in CMD AST */
 // Incremental refinement pass 1093
+
+/* [2025-12-15 10:44:22] harden pointer safety and boundary guards in constant folding and dead-branch pruning in CMD AST */
+// Incremental refinement pass 1096
