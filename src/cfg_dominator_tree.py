@@ -157,3 +157,6 @@
 
 /* [2025-12-05 02:08:29] update technical specifications for control flow graph dominator tree analysis */
 // Incremental refinement pass 1091
+
+/* [2025-12-16 03:08:24] implement core logic for control flow graph dominator tree analysis */
+// Incremental refinement pass 1099
