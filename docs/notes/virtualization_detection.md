@@ -145,3 +145,6 @@
 
 /* [2025-12-15 08:42:12] enhance throughput performance in Browser-in-the-Browser fake dialog detection heuristics */
 // Incremental refinement pass 1097
+
+/* [2025-12-16 06:49:19] document structural invariants for Browser-in-the-Browser fake dialog detection heuristics */
+// Incremental refinement pass 1100
