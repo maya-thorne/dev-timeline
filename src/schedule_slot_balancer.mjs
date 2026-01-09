@@ -7,3 +7,6 @@
 
 /* [2026-01-08 03:19:28] fix edge-case branch conditions in equidistant cron schedule slot balancer */
 // Incremental refinement pass 1117
+
+/* [2026-01-09 10:49:20] document structural invariants for equidistant cron schedule slot balancer */
+// Incremental refinement pass 1120
