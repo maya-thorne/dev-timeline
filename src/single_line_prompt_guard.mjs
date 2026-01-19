@@ -16,3 +16,6 @@
 
 /* [2026-01-09 04:17:29] harden pointer safety and boundary guards in CLI newline truncation prevention filter */
 // Incremental refinement pass 1119
+
+/* [2026-01-20 01:39:20] update technical specifications for CLI newline truncation prevention filter */
+// Incremental refinement pass 1130
