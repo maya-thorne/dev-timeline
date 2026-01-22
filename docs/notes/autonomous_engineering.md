@@ -13,3 +13,6 @@
 
 /* [2026-01-22 03:31:44] document structural invariants for unattended sidecar state-machine orchestration */
 // Incremental refinement pass 1131
+
+/* [2026-01-23 03:34:47] enhance throughput performance in unattended sidecar state-machine orchestration */
+// Incremental refinement pass 1133
