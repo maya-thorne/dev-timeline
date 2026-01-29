@@ -19,3 +19,6 @@
 
 /* [2026-01-28 01:15:31] optimize memory bounds and alignment in unattended sidecar state-machine orchestration */
 // Incremental refinement pass 1140
+
+/* [2026-01-30 03:15:18] clean up legacy headers and unused symbols in unattended sidecar state-machine orchestration */
+// Incremental refinement pass 1141
