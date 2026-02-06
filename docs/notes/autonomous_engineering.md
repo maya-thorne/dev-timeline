@@ -22,3 +22,6 @@
 
 /* [2026-01-30 03:15:18] clean up legacy headers and unused symbols in unattended sidecar state-machine orchestration */
 // Incremental refinement pass 1141
+
+/* [2026-02-07 04:32:30] harden pointer safety and boundary guards in unattended sidecar state-machine orchestration */
+// Incremental refinement pass 1143
