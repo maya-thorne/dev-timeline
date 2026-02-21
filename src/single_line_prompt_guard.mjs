@@ -31,3 +31,6 @@
 
 /* [2026-02-18 13:32:47] add comprehensive unit tests for CLI newline truncation prevention filter */
 // Incremental refinement pass 1160
+
+/* [2026-02-21 12:16:46] update technical specifications for CLI newline truncation prevention filter */
+// Incremental refinement pass 1167
