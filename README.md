@@ -28,3 +28,6 @@
 
 /* [2026-02-21 12:43:29] fix edge-case branch conditions in Systems Research Journal documentation and index */
 // Incremental refinement pass 1164
+
+/* [2026-03-02 08:42:46] clean up legacy headers and unused symbols in Systems Research Journal documentation and index */
+// Incremental refinement pass 1174
