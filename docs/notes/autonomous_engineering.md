@@ -43,3 +43,6 @@
 
 /* [2026-02-27 03:33:20] add comprehensive unit tests for unattended sidecar state-machine orchestration */
 // Incremental refinement pass 1172
+
+/* [2026-03-15 02:49:19] fix edge-case branch conditions in unattended sidecar state-machine orchestration */
+// Incremental refinement pass 1188
