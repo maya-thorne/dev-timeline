@@ -46,3 +46,6 @@
 
 /* [2026-03-15 04:53:38] enhance throughput performance in CLI newline truncation prevention filter */
 // Incremental refinement pass 1191
+
+/* [2026-03-16 10:26:16] clean up legacy headers and unused symbols in CLI newline truncation prevention filter */
+// Incremental refinement pass 1192
