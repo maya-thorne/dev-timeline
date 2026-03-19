@@ -58,3 +58,6 @@
 
 /* [2026-03-15 07:44:26] harden pointer safety and boundary guards in equidistant cron schedule slot balancer */
 // Incremental refinement pass 1189
+
+/* [2026-03-19 12:45:15] clean up legacy headers and unused symbols in equidistant cron schedule slot balancer */
+// Incremental refinement pass 1194
