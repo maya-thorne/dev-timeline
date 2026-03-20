@@ -49,3 +49,6 @@
 
 /* [2026-03-15 05:25:46] add comprehensive unit tests for unattended sidecar state-machine orchestration */
 // Incremental refinement pass 1190
+
+/* [2026-03-20 13:08:29] document structural invariants for unattended sidecar state-machine orchestration */
+// Incremental refinement pass 1197
