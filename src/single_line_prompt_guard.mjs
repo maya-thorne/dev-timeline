@@ -52,3 +52,6 @@
 
 /* [2026-03-20 03:25:15] document structural invariants for CLI newline truncation prevention filter */
 // Incremental refinement pass 1196
+
+/* [2026-04-06 07:06:30] harden pointer safety and boundary guards in CLI newline truncation prevention filter */
+// Incremental refinement pass 1211
