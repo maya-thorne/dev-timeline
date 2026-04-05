@@ -61,3 +61,6 @@
 
 /* [2026-04-05 06:10:32] document structural invariants for unattended sidecar state-machine orchestration */
 // Incremental refinement pass 1210
+
+/* [2026-04-06 04:38:27] fix edge-case branch conditions in unattended sidecar state-machine orchestration */
+// Incremental refinement pass 1212
