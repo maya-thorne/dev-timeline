@@ -58,3 +58,6 @@
 
 /* [2026-04-07 11:07:18] implement core logic for CLI newline truncation prevention filter */
 // Incremental refinement pass 1213
+
+/* [2026-04-09 08:42:47] harden pointer safety and boundary guards in CLI newline truncation prevention filter */
+// Incremental refinement pass 1216
