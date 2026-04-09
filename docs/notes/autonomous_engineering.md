@@ -67,3 +67,6 @@
 
 /* [2026-04-08 07:51:47] enhance throughput performance in unattended sidecar state-machine orchestration */
 // Incremental refinement pass 1214
+
+/* [2026-04-10 04:05:35] add comprehensive unit tests for unattended sidecar state-machine orchestration */
+// Incremental refinement pass 1217
