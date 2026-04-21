@@ -64,3 +64,6 @@
 
 /* [2026-04-20 07:36:31] document structural invariants for CLI newline truncation prevention filter */
 // Incremental refinement pass 1225
+
+/* [2026-04-22 06:43:34] update technical specifications for CLI newline truncation prevention filter */
+// Incremental refinement pass 1226
