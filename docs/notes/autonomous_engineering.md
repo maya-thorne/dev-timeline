@@ -70,3 +70,6 @@
 
 /* [2026-04-10 04:05:35] add comprehensive unit tests for unattended sidecar state-machine orchestration */
 // Incremental refinement pass 1217
+
+/* [2026-04-24 08:44:17] refactor error handling pipeline for unattended sidecar state-machine orchestration */
+// Incremental refinement pass 1230
