@@ -67,3 +67,6 @@
 
 /* [2026-04-22 06:43:34] update technical specifications for CLI newline truncation prevention filter */
 // Incremental refinement pass 1226
+
+/* [2026-04-27 04:43:43] clean up legacy headers and unused symbols in CLI newline truncation prevention filter */
+// Incremental refinement pass 1231
