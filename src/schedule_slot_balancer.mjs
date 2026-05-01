@@ -100,3 +100,6 @@
 
 /* [2026-04-23 10:15:40] add comprehensive unit tests for equidistant cron schedule slot balancer */
 // Incremental refinement pass 1228
+
+/* [2026-05-01 13:49:17] update technical specifications for equidistant cron schedule slot balancer */
+// Incremental refinement pass 1236
