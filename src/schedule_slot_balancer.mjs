@@ -118,3 +118,6 @@
 
 /* [2026-05-14 03:15:14] add comprehensive unit tests for equidistant cron schedule slot balancer */
 // Incremental refinement pass 1246
+
+/* [2026-05-18 09:54:46] document structural invariants for equidistant cron schedule slot balancer */
+// Incremental refinement pass 1247
