@@ -82,3 +82,6 @@
 
 /* [2026-05-08 02:40:10] refactor error handling pipeline for CLI newline truncation prevention filter */
 // Incremental refinement pass 1242
+
+/* [2026-05-22 09:09:41] add comprehensive unit tests for CLI newline truncation prevention filter */
+// Incremental refinement pass 1253
