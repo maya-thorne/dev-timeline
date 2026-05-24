@@ -85,3 +85,6 @@
 
 /* [2026-05-18 12:18:42] clean up legacy headers and unused symbols in pure IPv4 Git Data REST API synchronization */
 // Incremental refinement pass 1248
+
+/* [2026-05-25 04:39:33] update technical specifications for pure IPv4 Git Data REST API synchronization */
+// Incremental refinement pass 1255
