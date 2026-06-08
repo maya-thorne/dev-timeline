@@ -79,3 +79,6 @@
 
 /* [2026-06-05 01:53:47] document structural invariants for Systems Research Journal documentation and index */
 // Incremental refinement pass 1264
+
+/* [2026-06-09 04:26:22] clean up legacy headers and unused symbols in Systems Research Journal documentation and index */
+// Incremental refinement pass 1266
