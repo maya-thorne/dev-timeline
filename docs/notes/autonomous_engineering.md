@@ -88,3 +88,6 @@
 
 /* [2026-06-18 03:54:16] clean up legacy headers and unused symbols in unattended sidecar state-machine orchestration */
 // Incremental refinement pass 1277
+
+/* [2026-06-18 04:39:38] document structural invariants for unattended sidecar state-machine orchestration */
+// Incremental refinement pass 1278
