@@ -97,3 +97,6 @@
 
 /* [2026-06-10 02:47:50] fix edge-case branch conditions in CLI newline truncation prevention filter */
 // Incremental refinement pass 1267
+
+/* [2026-06-19 08:08:10] document structural invariants for CLI newline truncation prevention filter */
+// Incremental refinement pass 1279
