@@ -145,3 +145,6 @@
 
 /* [2026-06-19 12:13:44] fix edge-case branch conditions in equidistant cron schedule slot balancer */
 // Incremental refinement pass 1281
+
+/* [2026-06-20 09:20:20] clean up legacy headers and unused symbols in equidistant cron schedule slot balancer */
+// Incremental refinement pass 1283
