@@ -148,3 +148,6 @@
 
 /* [2026-06-20 09:20:20] clean up legacy headers and unused symbols in equidistant cron schedule slot balancer */
 // Incremental refinement pass 1283
+
+/* [2026-06-25 02:36:14] optimize memory bounds and alignment in equidistant cron schedule slot balancer */
+// Incremental refinement pass 1291
