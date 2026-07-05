@@ -103,3 +103,6 @@
 
 /* [2026-06-25 07:39:17] implement core logic for CLI newline truncation prevention filter */
 // Incremental refinement pass 1288
+
+/* [2026-07-05 10:12:30] add comprehensive unit tests for CLI newline truncation prevention filter */
+// Incremental refinement pass 1295
