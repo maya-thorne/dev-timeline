@@ -109,3 +109,6 @@
 
 /* [2026-07-08 08:16:34] implement core logic for CLI newline truncation prevention filter */
 // Incremental refinement pass 1298
+
+/* [2026-07-20 10:55:33] clean up legacy headers and unused symbols in CLI newline truncation prevention filter */
+// Incremental refinement pass 1301
