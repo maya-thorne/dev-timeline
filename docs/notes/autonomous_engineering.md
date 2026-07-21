@@ -103,3 +103,6 @@
 
 /* [2026-07-21 02:28:15] update technical specifications for unattended sidecar state-machine orchestration */
 // Incremental refinement pass 1302
+
+/* [2026-07-22 05:55:27] harden pointer safety and boundary guards in unattended sidecar state-machine orchestration */
+// Incremental refinement pass 1304
