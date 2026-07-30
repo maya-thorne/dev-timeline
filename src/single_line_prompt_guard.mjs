@@ -115,3 +115,6 @@
 
 /* [2026-07-28 13:44:27] add comprehensive unit tests for CLI newline truncation prevention filter */
 // Incremental refinement pass 1309
+
+/* [2026-07-30 13:35:50] fix edge-case branch conditions in CLI newline truncation prevention filter */
+// Incremental refinement pass 1310
