@@ -115,3 +115,6 @@
 
 /* [2026-07-28 01:43:19] optimize memory bounds and alignment in unattended sidecar state-machine orchestration */
 // Incremental refinement pass 1308
+
+/* [2026-07-31 09:21:23] update technical specifications for unattended sidecar state-machine orchestration */
+// Incremental refinement pass 1312
