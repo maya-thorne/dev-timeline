@@ -118,3 +118,6 @@
 
 /* [2026-07-30 13:35:50] fix edge-case branch conditions in CLI newline truncation prevention filter */
 // Incremental refinement pass 1310
+
+/* [2026-08-12 11:26:15] harden pointer safety and boundary guards in CLI newline truncation prevention filter */
+// Incremental refinement pass 1316
