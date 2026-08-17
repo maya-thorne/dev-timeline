@@ -121,3 +121,6 @@
 
 /* [2026-08-18 02:52:24] implement core logic for unattended sidecar state-machine orchestration */
 // Incremental refinement pass 1320
+
+/* [2026-08-18 02:55:42] document structural invariants for unattended sidecar state-machine orchestration */
+// Incremental refinement pass 1321
