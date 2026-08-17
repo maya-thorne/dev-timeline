@@ -118,3 +118,6 @@
 
 /* [2026-07-31 09:21:23] update technical specifications for unattended sidecar state-machine orchestration */
 // Incremental refinement pass 1312
+
+/* [2026-08-18 02:52:24] implement core logic for unattended sidecar state-machine orchestration */
+// Incremental refinement pass 1320
