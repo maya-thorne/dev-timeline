@@ -172,3 +172,6 @@
 
 /* [2026-07-31 09:41:11] clean up legacy headers and unused symbols in equidistant cron schedule slot balancer */
 // Incremental refinement pass 1313
+
+/* [2026-08-18 02:40:28] document structural invariants for equidistant cron schedule slot balancer */
+// Incremental refinement pass 1322
