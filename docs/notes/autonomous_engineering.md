@@ -127,3 +127,6 @@
 
 /* [2026-08-22 12:18:46] enhance throughput performance in unattended sidecar state-machine orchestration */
 // Incremental refinement pass 1324
+
+/* [2026-08-22 08:48:16] harden pointer safety and boundary guards in unattended sidecar state-machine orchestration */
+// Incremental refinement pass 1325
