@@ -130,3 +130,6 @@
 
 /* [2026-08-22 08:48:16] harden pointer safety and boundary guards in unattended sidecar state-machine orchestration */
 // Incremental refinement pass 1325
+
+/* [2026-08-27 07:28:28] refactor error handling pipeline for unattended sidecar state-machine orchestration */
+// Incremental refinement pass 1329
