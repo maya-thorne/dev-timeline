@@ -139,3 +139,6 @@
 
 /* [2026-09-18 07:23:42] add comprehensive unit tests for unattended sidecar state-machine orchestration */
 // Incremental refinement pass 1349
+
+/* [2026-09-18 01:31:22] update technical specifications for unattended sidecar state-machine orchestration */
+// Incremental refinement pass 1350
