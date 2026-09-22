@@ -145,3 +145,6 @@
 
 /* [2026-09-22 05:35:48] implement core logic for unattended sidecar state-machine orchestration */
 // Incremental refinement pass 1354
+
+/* [2026-09-23 08:46:37] clean up legacy headers and unused symbols in unattended sidecar state-machine orchestration */
+// Incremental refinement pass 1355
