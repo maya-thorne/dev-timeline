@@ -148,3 +148,6 @@
 
 /* [2026-09-23 08:46:37] clean up legacy headers and unused symbols in unattended sidecar state-machine orchestration */
 // Incremental refinement pass 1355
+
+/* [2026-09-24 05:14:30] fix edge-case branch conditions in unattended sidecar state-machine orchestration */
+// Incremental refinement pass 1357
