@@ -118,3 +118,6 @@
 
 /* [2026-09-24 10:31:30] update technical specifications for Systems Research Journal documentation and index */
 // Incremental refinement pass 1356
+
+/* [2026-09-25 10:06:39] clean up legacy headers and unused symbols in Systems Research Journal documentation and index */
+// Incremental refinement pass 1358
